@@ -1,0 +1,11 @@
+GitPython
+requests
+geopy
+ip2geotools
+emoji
+telethon
+pysocks
+tqdm
+pybase64
+filelock
+python-dotenv
