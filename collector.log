@@ -9820,3 +9820,9 @@ nohup: ignoring input
 Sorting by protocol:   0%|          | 0/16981 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 16981/16981 [00:00<00:00, 1558364.17cfg/s]
 2025-12-31 07:52:26,778 [INFO] save_config: Saving 3924160 configs to /home/apps/Free-V2ray-Collector
 2025-12-31 07:52:27,089 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+Groups saved in 'Config_by_country' folder. 100 files, 16981 lines total.
+Pushed to origin/main.
+Traceback (most recent call last):
+  File "/home/apps/Free-V2ray-Collector/Files/app.py", line 209, in <module>
+    time.sleep(3 * 60 * 60)
+KeyboardInterrupt
