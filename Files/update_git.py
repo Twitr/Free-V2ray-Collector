@@ -82,23 +82,35 @@ def update_with_token(remote_name: str = "origin", branch: str | None = None) ->
             if "conflict" in msg.lower() or "merge" in msg.lower():
                 print("Rebase conflict. Resolve, then: git add -A && git rebase --continue")
                 raise
-
-        # Push (token only in push URL)
+        # Push using token URL explicitly (avoid cached credentials / wrong user)
         remote = repo.remotes[remote_name]
         original = remote.url
-        https = original if original.startswith("http") else f"https://github.com/{original.split(':',1)[1]}"
+
+        # Normalize to clean https URL
+        if original.startswith("http"):
+            https = original
+        else:
+            https = f"https://github.com/{original.split(':',1)[1]}"
+
         u = urlparse(https)
-        push_url = u._replace(netloc=f"x-access-token:{token}@{u.netloc}").geturl()
+        clean_host = u.hostname  # drops any Twitr@ userinfo if present
+        clean_https = u._replace(netloc=clean_host).geturl()
+
+        push_url = urlparse(clean_https)._replace(
+            netloc=f"x-access-token:{token}@{clean_host}"
+        ).geturl()
 
         try:
-            remote.set_url(push_url, push=True)
+            # push_url first arg: push to this exact URL (no credential helper)
             try:
-                repo.git.push(remote_name, default_branch)
+                repo.git.push(push_url, f"HEAD:refs/heads/{default_branch}", "-u")
             except git.GitCommandError:
-                repo.git.push(remote_name, f"HEAD:refs/heads/{default_branch}", "-u")
+                repo.git.push(push_url, default_branch)
             print(f"Pushed to {remote_name}/{default_branch}.")
         finally:
-            remote.set_url(original, push=True)
+            # keep remote clean (no token stored)
+            remote.set_url(original)
+
 
     finally:
         try: proc_lock.release()

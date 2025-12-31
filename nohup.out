@@ -44,3 +44,41 @@
 Sorting by protocol:   0%|          | 0/16988 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 16988/16988 [00:00<00:00, 1412401.61cfg/s]
 2025-12-31 07:27:57,550 [INFO] save_config: Saving 3935645 configs to /home/apps/Free-V2ray-Collector
 2025-12-31 07:27:57,885 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+Groups saved in 'Config_by_country' folder. 100 files, 16988 lines total.
+Traceback (most recent call last):
+  File "/home/apps/Free-V2ray-Collector/Files/update_git.py", line 96, in update_with_token
+    repo.git.push(remote_name, default_branch)
+  File "/usr/local/lib/python3.12/dist-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git push origin main
+  stderr: 'remote: Permission to Twitr/Free-V2ray-Collector.git denied to M-Mashreghi.
+fatal: unable to access 'https://github.com/Twitr/Free-V2ray-Collector.git/': The requested URL returned error: 403'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/apps/Free-V2ray-Collector/Files/app.py", line 208, in <module>
+    main()
+  File "/home/apps/Free-V2ray-Collector/Files/app.py", line 200, in main
+    update_with_token()
+  File "/home/apps/Free-V2ray-Collector/Files/update_git.py", line 98, in update_with_token
+    repo.git.push(remote_name, f"HEAD:refs/heads/{default_branch}", "-u")
+  File "/usr/local/lib/python3.12/dist-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git push origin HEAD:refs/heads/main -u
+  stderr: 'remote: Permission to Twitr/Free-V2ray-Collector.git denied to M-Mashreghi.
+fatal: unable to access 'https://github.com/Twitr/Free-V2ray-Collector.git/': The requested URL returned error: 403'
