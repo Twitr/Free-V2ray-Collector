@@ -1,38 +1,36 @@
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 441 #@Xen2ray❤️ Dublin 🇮🇪
-ss://telegram-id-ArV2ray@Arv2ry.fastly80.hosting-ip.com:80?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=Cdiuw33.net&amp;type=ws #@Xen2ray💙 Dublin 🇮🇪
-trojan://telegram-id-privatevpns@52.214.235.82:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#@Xen2ray🤎 Dublin 🇮🇪
-trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 296 #@Xen2ray💜 Dublin 🇮🇪
-vless://10e11df9-de4b-4a21-aab4-1ff712a05028@co.pou-ria.com:80?security=none&type=xhttp&headerType=&path=🔒 [By EbraSha]&host=closer.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"} #@Xen2ray🖤 Dublin 🇮🇪
-vless://576d23e5-30f5-4915-8b8c-109e813ffeb5@G0dv2ray.fast.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=WEBIO.IO&type=xhttp #@Xen2ray💚 Dublin 🇮🇪
-ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc=@146.70.90.196:17454#@Xen2ray🤍 Dublin 🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217:25579#@Xen2ray💚 Dublin 🇮🇪
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 797 #@Xen2ray❤️ Dublin 🇮🇪
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.247.148.227:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#@Xen2ray🤎 Dublin 🇮🇪
-vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80/?type=ws&encryption=none&host=Afkarnews.com&path=🔒 [By EbraSha] #@Xen2ray🤍 Dublin 🇮🇪
-ss://8c248c48-a986-4806-9b8e-835edeb56aea@HqV2rayNG.fast.hosting-ip.com:80?mode=auto&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=fefwefwfeifnekl.com&amp;type=xhttp #@Xen2ray💜 Dublin 🇮🇪
-ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#@Xen2ray🖤 Dublin 🇮🇪
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 498 #@Xen2ray🤎 Dublin 🇮🇪
-vless://6513d3a4-55da-49e4-ae4b-acc30e8118d7@Arx.fast.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=Lyour-name.global.ssl.fastly.net&type=xhttp #@Xen2ray🧡 Dublin 🇮🇪
-vless://telegram-id-ArV2ray@Arv2ry.fastly80.hosting-ip.com:80?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=Cdiuw33.net&amp;type=ws #@Xen2ray💙 Dublin 🇮🇪
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#@Xen2ray💛 Dublin 🇮🇪
-vless://378b8e58-6a23-4fc6-b227-67665a78033d@hajimamadvpn.fast.hosting-ip.com:80/?type=xhttp&encryption=none #@Xen2ray💜 Dublin 🇮🇪
-trojan://S896mMChk5@54.247.123.33:1935?security=tls&sni=x1-ireland-amazon-v2.devefun.cloud&type=tcp&fp=chrome&allowInsecure=1#@Xen2ray🤍 Dublin 🇮🇪
-ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=9d90d7ada8 #@Xen2ray🤍 Dublin 🇮🇪
-vmess://eyJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJhaWQiOjY0LCJob3N0Ijoid3d3LjE0NjAxMTc2Lnh5eiIsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMzAwMDIyMTEzMzI5IiwicG9ydCI6MzAwMDAsInBzIjoiQFhlbjJyYXnwn6SNIER1YmxpbiDwn4eu8J+HqiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Ind3dy4xNDYwMTE3Ni54eXoifQ==
-trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 954 #@Xen2ray❤️ Dublin 🇮🇪
-vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80/?type=xhttp&encryption=none #@Xen2ray💜 Dublin 🇮🇪
-trojan://telegram-id-privatevpns@52.208.136.122:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#@Xen2ray💛 Dublin 🇮🇪
-vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjU5MTAyLCJwcyI6IkBYZW4ycmF58J+kjSBEdWJsaW4g8J+HrvCfh6oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989 #@Xen2ray🧡 Dublin 🇮🇪
+ss://8c248c48-a986-4806-9b8e-835edeb56aea@HqV2rayNG.fast.hosting-ip.com:80?mode=auto&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=fefwefwfeifnekl.com&amp;type=xhttp #@Xen2ray🤎 Dublin 🇮🇪
 vmess://eyJhZGQiOiIxODUuMTA4LjEyOC42MCIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFhlbjJyYXnwn6SNIER1YmxpbiDwn4eu8J+HqiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://cdnfastlycash@fastlyeeeeee.fast.hosting-ip.com:80/?type=xhttp&encryption=none #@Xen2ray🤍 Dublin 🇮🇪
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989#@Xen2ray🖤 Dublin 🇮🇪
-vless://bb691001-faf8-4b4e-af2e-bfb27780f689@fastshovpntelegram.fast.hosting-ip.com:80/?type=xhttp&encryption=none #@Xen2ray❤️ Dublin 🇮🇪
+vless://576d23e5-30f5-4915-8b8c-109e813ffeb5@G0dv2ray.fast.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=WEBIO.IO&type=xhttp #@Xen2ray❤️ Dublin 🇮🇪
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@3.249.52.148:50007#@Xen2ray❤️ Dublin 🇮🇪
+trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 604 #@Xen2ray🤍 Dublin 🇮🇪
+vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80/?type=ws&encryption=none&host=Afkarnews.com&path=🔒 [By EbraSha] #@Xen2ray🤍 Dublin 🇮🇪
+trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 91 #@Xen2ray🤎 Dublin 🇮🇪
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.247.148.227:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#@Xen2ray🧡 Dublin 🇮🇪
+trojan://telegram-id-privatevpns@52.214.235.82:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#@Xen2ray🤎 Dublin 🇮🇪
+vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80/?type=xhttp&encryption=none #@Xen2ray🧡 Dublin 🇮🇪
+vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=www.bing.com&sni=34.254.224.37#@Xen2ray💙 Dublin 🇮🇪
+vless://10e11df9-de4b-4a21-aab4-1ff712a05028@co.pou-ria.com:80?security=none&type=xhttp&headerType=&path=🔒 [By EbraSha]&host=closer.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"} #@Xen2ray🧡 Dublin 🇮🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989 #@Xen2ray💛 Dublin 🇮🇪
+ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=9d90d7ada8 #@Xen2ray🧡 Dublin 🇮🇪
+trojan://telegram-id-privatevpns@52.208.136.122:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#@Xen2ray💙 Dublin 🇮🇪
 vless://8c248c48-a986-4806-9b8e-835edeb56aea@HqV2rayNG.fast.hosting-ip.com:80?mode=auto&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=fefwefwfeifnekl.com&amp;type=xhttp #@Xen2ray💚 Dublin 🇮🇪
-vless://9fbfeb23-9b2e-4891-b609-857c1d082ccd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=triplef_sony.global.ssl.fastly.net&type=xhttp#@Xen2ray🤍 Dublin 🇮🇪
-trojan://telegram-id-directvpn@52.19.6.148:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Xen2ray💚 Dublin 🇮🇪
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@3.249.52.148:50007#@Xen2ray🖤 Dublin 🇮🇪
+trojan://telegram-id-directvpn@52.19.6.148:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Xen2ray🤍 Dublin 🇮🇪
+trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 485 #@Xen2ray🧡 Dublin 🇮🇪
+trojan://S896mMChk5@54.247.123.33:1935?security=tls&sni=x1-ireland-amazon-v2.devefun.cloud&type=tcp&fp=chrome&allowInsecure=1#@Xen2ray💜 Dublin 🇮🇪
+vless://6513d3a4-55da-49e4-ae4b-acc30e8118d7@Arx.fast.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=Lyour-name.global.ssl.fastly.net&type=xhttp #@Xen2ray❤️ Dublin 🇮🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989 #@Xen2ray💛 Dublin 🇮🇪
+ss://telegram-id-ArV2ray@Arv2ry.fastly80.hosting-ip.com:80?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=Cdiuw33.net&amp;type=ws #@Xen2ray💛 Dublin 🇮🇪
+vless://cdnfastlycash@fastlyeeeeee.fast.hosting-ip.com:80/?type=xhttp&encryption=none #@Xen2ray💚 Dublin 🇮🇪
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#@Xen2ray🤍 Dublin 🇮🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217:25579#@Xen2ray💚 Dublin 🇮🇪
+ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc=@146.70.90.196:17454#@Xen2ray🤍 Dublin 🇮🇪
 vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjE0MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTU3ZTUzMmUtZGU0YS00YjNlLTlmYjItNWQzNTVjY2I1ZGE5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjUwMDY4LCJwcyI6IkBYZW4ycmF58J+SmiBEdWJsaW4g8J+HrvCfh6oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=9d90d7ada8 #@Xen2ray❤️ Dublin 🇮🇪
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 730 #@Xen2ray💚 Dublin 🇮🇪
-vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=www.bing.com&sni=34.254.224.37#@Xen2ray💜 Dublin 🇮🇪
+vless://378b8e58-6a23-4fc6-b227-67665a78033d@hajimamadvpn.fast.hosting-ip.com:80/?type=xhttp&encryption=none #@Xen2ray💙 Dublin 🇮🇪
+vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=9d90d7ada8 #@Xen2ray🧡 Dublin 🇮🇪
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#@Xen2ray🤎 Dublin 🇮🇪
+vmess://eyJhZGQiOiI0NS4xMzEuMjQ4LjIyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYWMwMjczNjItYzk4OC00NjcwLWY3OGYtMDIxYjViZTZmNGUzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjU5MTAyLCJwcyI6IkBYZW4ycmF58J+WpCBEdWJsaW4g8J+HrvCfh6oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://9fbfeb23-9b2e-4891-b609-857c1d082ccd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=triplef_sony.global.ssl.fastly.net&type=xhttp#@Xen2ray💚 Dublin 🇮🇪
+vmess://eyJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJhaWQiOjY0LCJob3N0Ijoid3d3LjE0NjAxMTc2Lnh5eiIsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMzAwMDIyMTEzMzI5IiwicG9ydCI6MzAwMDAsInBzIjoiQFhlbjJyYXnwn6ehIER1YmxpbiDwn4eu8J+HqiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Ind3dy4xNDYwMTE3Ni54eXoifQ==
+vless://bb691001-faf8-4b4e-af2e-bfb27780f689@fastshovpntelegram.fast.hosting-ip.com:80/?type=xhttp&encryption=none #@Xen2ray💚 Dublin 🇮🇪
+trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 294 #@Xen2ray💚 Dublin 🇮🇪
+vless://telegram-id-ArV2ray@Arv2ry.fastly80.hosting-ip.com:80?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=Cdiuw33.net&amp;type=ws #@Xen2ray💜 Dublin 🇮🇪
