@@ -1,13 +1,12 @@
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&packetEncoding=xudp#@Xen2ray🖤 Baku 🇦🇿
-vless://e5866002-8f9d-421d-8a10-bfcc76026aaa@s9.tapsi.ovh:2974/?type=ws&encryption=none&flow=&host=skyroom.online,gharar.ir,igap.net&path=/#@Xen2ray❤️ Baku 🇦🇿
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#@Xen2ray💙 Baku 🇦🇿
-ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@94.20.154.38:50006#@Xen2ray🤍 🇦🇿
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#@Xen2ray💜 Baku 🇦🇿
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#@Xen2ray🤎 Baku 🇦🇿
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#@Xen2ray🤎 🇦🇿
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#@Xen2ray💙 Baku 🇦🇿
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#@Xen2ray❤️ Baku 🇦🇿
-ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Xen2ray🤍 Baku 🇦🇿
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989 #@Xen2ray🤎 Baku 🇦🇿
-ss://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&amp;packetEncoding=xudp#@Xen2ray🧡 Baku 🇦🇿
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#@Xen2ray🤎 Baku 🇦🇿
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#@Twitro💚 Baku 🇦🇿
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#@Twitro🤎 Baku 🇦🇿
+vless://e5866002-8f9d-421d-8a10-bfcc76026aaa@s9.tapsi.ovh:2974/?type=ws&encryption=none&flow=&host=skyroom.online,gharar.ir,igap.net&path=/#@Twitro🤎 Baku 🇦🇿
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#@Twitro💛 🇦🇿
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989 #@Twitro🤍 Baku 🇦🇿
+ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@94.20.154.38:50006#@Twitro🧡 🇦🇿
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#@Twitro💛 Baku 🇦🇿
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#@Twitro💜 Baku 🇦🇿
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#@Twitro❤️ Baku 🇦🇿
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#@Twitro💚 Baku 🇦🇿
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?path=/#@Twitro💛 Baku 🇦🇿
+ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Twitro🖤 Baku 🇦🇿

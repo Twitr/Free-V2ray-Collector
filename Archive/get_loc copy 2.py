@@ -14,7 +14,7 @@ from emoji import find_emoji
 # Fast HTTP session (Keep-Alive)
 # -------------------------------
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "Xen2rayLoc/1.0"})
+SESSION.headers.update({"User-Agent": "TwitroLoc/1.0"})
 # keep response tiny & fast
 IP_API_FIELDS = "status,country,countryCode,city"
 

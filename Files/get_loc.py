@@ -45,7 +45,7 @@ def _lookup_city_flag(ip: str) -> tuple[str, str]:
 # Fast HTTP session & ip-api fields
 # ---------------------------------
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": "Xen2rayLoc/1.1"})
+SESSION.headers.update({"User-Agent": "TwitroLoc/1.1"})
 IP_API_FIELDS = "status,country,countryCode,city"  # keep responses tiny
 
 # ---------------------------------

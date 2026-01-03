@@ -35,7 +35,7 @@ HEARTS = [
 ]
 
 def _new_name():
-    return f"@Xen2ray{random.choice(HEARTS)} "
+    return f"@Twitro{random.choice(HEARTS)} "
 
 
 
