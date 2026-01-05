@@ -207,5 +207,5 @@ if __name__ == "__main__":
     while True:
         main()
         time.sleep(3 * 60 * 60)
-    logger.info("It went sleep")
+        logger.info("It went sleep")
 
