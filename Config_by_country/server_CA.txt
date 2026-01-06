@@ -1,183 +1,184 @@
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfkpsgTW9udHJlYWwg8J+HqPCfh6YiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJpbm5hLmNmZCIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=🔒 [By EbraSha]&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=test43.pages.dev&amp%3Btype=ws&amp%3Bsni=🔒 [By EbraSha] #@Twitro💜 🇨🇦
-vless://c5fe2244-df45-4efe-8abe-9699e7802697@172.105.29.78:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro❤️ Toronto 🇨🇦
-trojan://89str_hbFiA4Re5VKxLYnDPgy@149.248.50.17:15349?security=tls&headerType=none&type=tcp&sni=ya.ru#@Twitro🧡 Toronto 🇨🇦
-trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 179 #@Twitro💜 Montreal 🇨🇦
-ss://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws#@Twitro❤️ 🇨🇦
-vless://e819cfb1-3c30-48b0-957d-e479bace661b@149.248.58.105:80?path=/rfvtgws&security=none&encryption=none&type=ws#@Twitro💛 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.93:3306 #@Twitro💛 Toronto 🇨🇦
-vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?encryption=none&security=none&type=tcp&headerType=none #@Twitro🤍 🇨🇦
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#@Twitro💚 Toronto 🇨🇦
-vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI3IiwidiI6IjIiLCJwcyI6IkBUd2l0cm/wn5KbIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoibWFua2FkbXUuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3YjFiMmZhMy1lMzYxLTQ4Y2MtYjczZC0yYzk2MzZjNzZmNGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVU1XMzYyNjIiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfkpwgT3R0YXdhIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&encryption=none&headerType=none&type=tcp #@Twitro🧡 Ottawa 🇨🇦
-trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#@Twitro💙 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.197:812#@Twitro🖤 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuNjAuMTg0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3MzM3NmM3MC0zMTA4LTExZWUtOTcxMC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOjIwOTYsInBzIjoiQFR3aXRyb/Cfkpkg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInNlY3VyaXR5Ijoibm9uZSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ@193.203.203.66:443 #@Twitro🧡 Toronto 🇨🇦
-vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@172.105.24.223:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Twitro🤍 Toronto 🇨🇦
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 995 #@Twitro💛 Vancouver 🇨🇦
-vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.97.78:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🖤 Toronto 🇨🇦
-vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@139.177.199.114:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Twitro💙 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.59:443#@Twitro🧡 Toronto 🇨🇦
-vless://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d037f6f67cc90016#@Twitro❤️ 🇨🇦
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@198.57.27.218:5004#@Twitro🤍 Toronto 🇨🇦
-vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@159.203.9.227:443?type=xhttp&path=/sf&host=&mode=stream-one&security=none#@Twitro💜 Toronto 🇨🇦
-vless://55975415-43c0-461c-8752-d5b8013364e3@167.17.70.16:8443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=84f70f1177981563&pbk=8W9r2aXGhKNtvPxnL6EiPpQuSm9OJT17x2xyxwxIo30&encryption=none#@Twitro❤️ 🇨🇦
-vless://30837eab-df8b-404e-bee7-02c9c0c971b3@static.cdn-assets-v3.fonts.googleapis-com.edge-cache.deepcloudview.com:443?security=reality&encryption=none&pbk=oB-k13V7puuNgwAmA7Ol-TGIVOkU1vJEnXs8CBjXtnk&headerType=none&fp=chrome&spx=/cdn-assets-v3&type=tcp&flow=xtls-rprx-vision&sni=fonts.googleapis.com&sid=42843d2219#@Twitro🧡 Surrey 🇨🇦
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@74.49.214.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Twitro💜 🇨🇦
-vmess://eyJhZGQiOiIxMzIuMTQ1Ljk5LjIyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTI3Njg1NTItYzJiMi00NDYwLTg5ZjEtZTc0MGNjMTQ1Yjk5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXBhdGgiLCJwb3J0IjoxMzcyNCwicHMiOiJAVHdpdHJv8J+SnCBUb3JvbnRvIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#@Twitro🖤 Ottawa 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.161.118.38:807#@Twitro💛 Beauharnois 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:805 #@Twitro🖤 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.92:443#@Twitro💛 Toronto 🇨🇦
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Twitro💙 🇨🇦
-vmess://eyJhZGQiOiIxMzguMTk3LjE2NS4zMSIsImFpZCI6NCwiaG9zdCI6IiIsImlkIjoiMmVkNjA5ZDAtNzQ2Ny00NzFiLTk0YTktMzRhNzM0Y2NjNDBhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy9oZC5tM3U4IiwicG9ydCI6ODA4MCwicHMiOiJAVHdpdHJv8J+kjSBUb3JvbnRvIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 515 #@Twitro🤍 Montreal 🇨🇦
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.231:3306#@Twitro💛 Toronto 🇨🇦
-vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@Twitro💚 Ottawa 🇨🇦
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro💚 Montreal 🇨🇦
-vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=sport-shop-online-02.cyberscaler.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 434 #@Twitro💜 Vancouver 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.51:443 #@Twitro🖤 Toronto 🇨🇦
-trojan://bpb-trojan@23.227.60.8:443#@Twitro🤎 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#@Twitro🧡 🇨🇦
-vless://5b8192cd-ca98-4084-a2ae-99bf1ea2fa2a@159.89.120.125:443?mode=stream-one&path=/sd&security=&encryption=none&type=xhttp#@Twitro🧡 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:803#@Twitro💙 Ottawa 🇨🇦
-vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6Imxpbm9kZS5jbG91ZGZsYXJlLnF1ZXN0IiwiaWQiOiI0Mzk3ZDA2Ni1mNzUzLTQzMDAtZTdlZC00NDc5N2RkZmNkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJpZXMiLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SmyBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.149:8080 #@Twitro❤️ Toronto 🇨🇦
-vmess://eyJhZGQiOiIxNjguMTM4LjY4LjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUyNzY4NTUyLWMyYjItNDQ2MC04OWYxLWU3NDBjYzE0NWI5OSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy1wYXRoIiwicG9ydCI6IjE0MjUyIiwicHMiOiJAVHdpdHJv8J+noSBNb250cmVhbCDwn4eo8J+HpiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990#@Twitro🤎 Montreal 🇨🇦
-vless://651fda6c-aba1-49f2-b1da-0ccb7de0a81d@99.199.73.53:20744?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp #@Twitro🖤 Vancouver 🇨🇦
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@134.195.196.107:8009#@Twitro💚 Toronto 🇨🇦
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.43.216:110 #@Twitro💜 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:806 #@Twitro🤎 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1V6WkdVeQ@146.19.106.89:8388 #@Twitro🤍 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.20:6379#@Twitro🤍 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dU1xa0dJeDZJYTA=@138.197.174.245:56443#@Twitro🤎 Toronto 🇨🇦
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#@Twitro💛 Toronto 🇨🇦
-vless://4c7dd8f5-752b-401b-a0a6-eebbf91b361b@172.105.17.26:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🖤 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.61:443#@Twitro💙 Toronto 🇨🇦
-vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?path=/linkws?ed=2560&security=none&encryption=none&host=51.79.29.17&type=ws&sni=51.79.29.17#@Twitro💚 🇨🇦
-vless://cf5a73e1-e1ba-4a21-aadd-2ed60eae1b52@axe.djjw8292n.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.djjw8292n.ir&type=ws&sni=mojito.djjw8292n.ir#@Twitro🧡 🇨🇦
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#@Twitro🧡 Vancouver 🇨🇦
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Twitro💛 Toronto 🇨🇦
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#@Twitro💙 Montreal 🇨🇦
-vless://5d2f6225-c658-4efe-a57c-53adb435964f@192.53.123.112:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🤎 Toronto 🇨🇦
-vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429/?type=tcp&encryption=none #@Twitro🤎 🇨🇦
-trojan://Fv7ogJ6vfz@209.200.246.53:36774?mode=gun&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&type=grpc&sni=cloudflare.com&sid=3e#@Twitro💜 Toronto 🇨🇦
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfkpkgT3R0YXdhIPCfh6jwn4emIiwiYWRkIjoiMjMuMjI3LjM4LjEwMCIsInBvcnQiOiI0NDMiLCJpZCI6IjdiMWIyZmEzLWUzNjEtNDhjYy1iNzNkLTJjOTYzNmM3NmY0YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2MnJheTEuemh1amljbjIub3JnIiwicGF0aCI6Ii9VTVczNjI2MiIsInRscyI6InRscyIsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.200.162:990#@Twitro🖤 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@138.197.166.205:811#@Twitro💛 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379#@Twitro🤍 Toronto 🇨🇦
-vless://f67b1db2-8eab-429a-a95b-a611c1bd24a6@thumbnails.torplay.ir:8443?security=none&encryption=none&headerType=none&type=tcp #@Twitro💙 🇨🇦
-ss://b4df5662-9ae5-4e49-a042-353ac99fd572@139.177.199.49:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Twitro❤️ Toronto 🇨🇦
-vmess://eyJhZGQiOiIxMzcuMTg0LjE2NC4yMzMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVjZWU5MGUzLWI5MTUtNGYxZS1iYjhkLWVmYWRhZDBjNmZlYiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOjgwLCJwcyI6IkBUd2l0cm/wn6SNIFRvcm9udG8g8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://f8629dd0-239a-4a44-b4c0-8041f5e403ca@172.105.18.242:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro💛 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:804#@Twitro💚 Ottawa 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMjQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImM1YTJkN2I4LWJmODQtNGY5Ny04NTc3LWI5Yjg3ZjJiYWFmNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9BVUlLTjhBVSIsInBvcnQiOjQ0MywicHMiOiJAVHdpdHJv8J+kjiBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro💛 Montreal 🇨🇦
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.227.17:989#@Twitro💛 Montreal 🇨🇦
-vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=/vless/&security=none&encryption=none&type=ws#@Twitro💚 🇨🇦
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC45MiIsImFpZCI6MSwiaG9zdCI6IjEzNC4xOTUuMTk4LjkyIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn5KZIE1vbnRyZWFsIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@159.203.10.217:443?type=xhttp&path=/sf&host=&mode=stream-one&security=none#@Twitro❤️ Toronto 🇨🇦
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Twitro💚 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.147:990#@Twitro💚 Montreal 🇨🇦
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfp6EgTW9udHJlYWwg8J+HqPCfh6YiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicHMiOiJAVHdpdHJv8J+SmyBUb3JvbnRvIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=🔒 [By EbraSha] #@Twitro💚 🇨🇦
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@85.208.108.58:9101 #@Twitro🧡 Toronto 🇨🇦
-vless://25d32c1a-c4ac-46c9-ab3c-6701e86e43f0@192.46.222.123:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🧡 Toronto 🇨🇦
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.2:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Twitro🖤 🇨🇦
-trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls#@Twitro🤍 🇨🇦
-ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdC@198.8.92.84:49396#@Twitro💙 Vancouver 🇨🇦
-vless://9935dbc4-dbbb-40b3-a6b8-884ee158a3ad@172.105.15.70:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💙 Toronto 🇨🇦
-vless://5b8192cd-ca98-4084-a2ae-99bf1ea2fa2a@147.182.159.245:443?mode=stream-one&path=/sd&security=&encryption=none&type=xhttp#@Twitro🧡 Toronto 🇨🇦
-trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@Twitro🤍 🇨🇦
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.18:8888#@Twitro💛 Toronto 🇨🇦
-vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQFR3aXRyb/Cfkpog8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051/?type=tcp&encryption=none #@Twitro❤️ 🇨🇦
-vmess://eyJhZGQiOiIxOTIuOTkuOC45OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDVjMzgzOTktNTI5Ni00YmYyLWE2MDYtMWNlYzNiNzFjOTQyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjM2MDA1LCJwcyI6IkBUd2l0cm/wn5KaIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@172.105.19.143:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro🖤 Toronto 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMzgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInBvcnQiOjQ0MywicHMiOiJAVHdpdHJv8J+kjSBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?mode=stream-one&path=/sf&security=&encryption=none&type=xhttp#@Twitro🧡 Toronto 🇨🇦
-vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952/?type=tcp&encryption=none #@Twitro🧡 🇨🇦
-vless://4c7dd8f5-752b-401b-a0a6-eebbf91b361b@172.105.3.132:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro💙 Toronto 🇨🇦
-vless://b0ff01b1-04d3-4b01-8ba9-b1dc47416c07@15.235.45.229:40853/?type=grpc&amp%3Bencryption=none&amp%3BserviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Twitro💙 🇨🇦
-vless://a086f073-c027-4748-a603-931366f3b7a7@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@Twitro💚 🇨🇦
-vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@192.46.222.41:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💚 Toronto 🇨🇦
-vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=/linkws?ed&security=none&encryption=none&host=51.79.103.225&type=ws#@Twitro💛 🇨🇦
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#@Twitro💚 Beauharnois 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@72.140.224.195:800#@Twitro🤍 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443 #@Twitro💛 Montreal 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#@Twitro🤍 Toronto 🇨🇦
-vless://25ec3d8a-8b33-42b0-af3e-94777a31ac2b@172.105.19.41:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro❤️ Toronto 🇨🇦
-vless://b4df5662-9ae5-4e49-a042-353ac99fd572@139.177.199.49:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Twitro💙 Toronto 🇨🇦
-vless://e732dac3-e181-4709-825d-18cf8f163402@172.105.99.25:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💛 Toronto 🇨🇦
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#@Twitro🖤 Vancouver 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@Twitro💜 🇨🇦
-vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro🤍 Toronto 🇨🇦
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=none&encryption=none&headerType=none&type=tcp #@Twitro💜 Ottawa 🇨🇦
-vmess://eyJhZGQiOiI1MS4xNjEuMTMwLjE0MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMzgxMTQ2OGItMzMzNi00YmNiLWFlODQtODYzNTFiOTAxMTU5IiwibmV0Ijoid3MiLCJwYXRoIjoiL0pBR09BTlNTSC8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+noSDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?path=%2Fdsjh5tGfRgUy789-jU%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=sport-shop-online-02.cyberscaler.com&fp=chrome&type=ws&sni=sport-shop-online-02.cyberscaler.com#@Twitro💜 Vancouver 🇨🇦
-vless://2e6037b9-87b2-4442-91f9-71c41a586a55@51.79.103.117:443?path=🔒 [By EbraSha]&security=none&encryption=none&host=51.79.103.117&type=ws #@Twitro🤍 🇨🇦
-vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.97.4:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🤍 Toronto 🇨🇦
-vless://8c6471c4-c346-40b7-b972-9bbf973576b3@172.105.102.245:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🧡 Toronto 🇨🇦
-vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643/?type=tcp&encryption=none #@Twitro❤️ 🇨🇦
-vless://0b965a09-31d7-4c04-adb2-0737ff0bb284@23.227.38.32:443?security=tls&type=ws&path=/77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#@Twitro💚 🇨🇦
-vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321/?type=tcp&encryption=none #@Twitro💚 Toronto 🇨🇦
-vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6InRndWsuY2xvdWRmbGFyZS5xdWVzdCIsImlkIjoiMzZiZDk5NjktYmI5Ni00YmRkLWE2ZGYtOTYwYmJkOGU0NDM5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBUd2l0cm/wn6SOIE90dGF3YSDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfkpkg8J+HqPCfh6YiLCJhZGQiOiI1MS43OS4xMDIuMjUzIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-ca4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-ca4-cdn.fastfilecdn.org&fp=chrome&type=ws#@Twitro🖤 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:443#@Twitro💚 Toronto 🇨🇦
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfkpwg8J+HqPCfh6YiLCJhZGQiOiIxNS4yMzUuNDEuMjAwIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfkpwgVG9yb250byDwn4eo8J+HpiIsImFkZCI6IjE1OS4yMDMuMTguMTE5IiwicG9ydCI6IjgwIiwiaWQiOiJiY2U1N2M5MS02YzJkLTRhZTUtODkwNi03OTViNmNmZWFmMjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcyIsInRscyI6IiIsInNuaSI6IiJ9
-vless://57ee25ce-5728-416c-af82-182e158a4a0c@172.105.20.139:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💛 Toronto 🇨🇦
-vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@159.203.9.247:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#@Twitro🤎 Toronto 🇨🇦
-vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6InRndXMuY2xvdWRmbGFyZS5xdWVzdCIsImlkIjoiMzUzYmJmNWYtYTI2NC00NzMxLWU3MzUtOTg0ZTYxMWMyZTAxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBUd2l0cm/wn6SOIE90dGF3YSDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://25d32c1a-c4ac-46c9-ab3c-6701e86e43f0@172.105.27.212:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💜 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.85:5001 #@Twitro🧡 Toronto 🇨🇦
-trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 613 #@Twitro🖤 Montreal 🇨🇦
-vmess://eyJhZGQiOiIxNTguNTEuMTIxLjM2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJAVHdpdHJv8J+kjiBNb250cmVhbCDwn4eo8J+HpiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d037f6f67cc90016#@Twitro💜 🇨🇦
-vless://30bcf69c-1818-4581-988a-842f53ee6bea@android-config.gstatic.cyberscaler.net:443?mode=stream-up&path=/s2/oz/images/notifications/nt8.png&security=reality&encryption=none&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&fp=chrome&spx=/s2/oz/images/notifications/nt8.png&type=xhttp&sni=ssl.gstatic.com&sid=e3a97c5b21#@Twitro🖤 Surrey 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMGZiNTY3NTJkM2Y3NTlk@51.79.54.90:45398 #@Twitro💛 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#@Twitro🧡 🇨🇦
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.246:8119#@Twitro🧡 Toronto 🇨🇦
-vless://e732dac3-e181-4709-825d-18cf8f163402@172.105.102.124:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🤎 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.94:443 #@Twitro🤍 Toronto 🇨🇦
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#@Twitro🧡 Vancouver 🇨🇦
-ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@37.19.211.114:50695#@Twitro❤️ Toronto 🇨🇦
-vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.27.63:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🤎 Toronto 🇨🇦
-vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBUd2l0cm/wn5KaIE1vbnRyZWFsIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://5d2f6225-c658-4efe-a57c-53adb435964f@172.105.27.17:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💛 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.95:443#@Twitro💚 Montreal 🇨🇦
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.21:443 #@Twitro💙 Toronto 🇨🇦
-vmess://eyJhZGQiOiI5Mi4yNDMuNjQuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjA0Mzk0ZmYtMWEyMy00YTVhLWQ0ZDQtNTNmNjAwN2Y4NGUxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBUd2l0cm/wn6SOIE1vbnRyZWFsIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://d9e62b6c-e55f-4e10-8743-28814b96c3a5@209.200.246.41:443?security=reality&encryption=none&pbk=aoCZDbk01UfRd6uOZ9kw39-GXVoOTLHnnKPcCcAJDBI&headerType=none&fp=chrome&spx=/ZFk3uRYJBnAtExS&type=tcp&flow=xtls-rprx-vision&sni=ca1.vpnskyline.com&sid=8f975533#@Twitro🖤 Toronto 🇨🇦
-vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&amp%3Bpath=%2F&amp%3Bhost=capitalnet.sameasyou.sbs&amp%3Bsecurity=tls&amp%3Bfp=firefox&amp%3Balpn=h2%2Chttp%2F1.1&amp%3Bsni=joinchannel.sameasyou.sbs#@Twitro🤍 🇨🇦
-ss://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Twitro💛 Toronto 🇨🇦
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CflqQgT3R0YXdhIPCfh6jwn4emIiwiYWRkIjoiU2hvcGlmeS5jb20iLCJwb3J0IjoiMjA4NiIsImlkIjoiZGRjZDY2ZmQtYzcxNi00MzljLTlhYjgtMmFkYjE0MDBmZjQ4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InNjdy5jbG91ZGZsYXJlLnF1ZXN0IiwicGF0aCI6Ii9hcmllcyIsInRscyI6IiIsInNuaSI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb+KdpO+4jyBUb3JvbnRvIPCfh6jwn4emIiwiYWRkIjoiMTM0LjEyMi40MS4xNjAiLCJwb3J0IjozMzg5LCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0bHMiOiIifQ==
-vless://57ee25ce-5728-416c-af82-182e158a4a0c@192.46.223.202:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🧡 Toronto 🇨🇦
-vmess://eyJhZGQiOiIxNDkuNTYuOTUuMTU5IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxYzc4OTA5ZS0xOGE4LTRjN2YtZjZhMC1lMDkyYWFlNjI0M2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MjM3ODQsInBzIjoiQFR3aXRyb/CflqQgTW9udHJlYWwg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfY2E@ca-1.stunnel.cc:8444 #@Twitro🧡 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#@Twitro💙 Montreal 🇨🇦
-vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp #@Twitro💙 Vancouver 🇨🇦
-vless://9b1bd0fe-4e14-44b9-8f43-075924389f25@149.248.52.96:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro🤎 Toronto 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443 #@Twitro💙 Vancouver 🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTFmNmZlYTc0YjczOTFh@51.161.80.138:12743#@Twitro💜 🇨🇦
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro💚 Montreal 🇨🇦
-vless://turboo-server@canada.turboo-server.com:10538?mode=gun&amp%3Bsecurity=reality&amp%3Bencryption=none&amp%3Bpbk=lTkMprNNGET2C1Mxr9YH_MUopv4zttTN8pCa-GwNBwU&amp%3Bfp=firefox&amp%3Bspx=%2F&amp%3Btype=grpc&amp%3BserviceName=Telegram%3A%40turboo_server%2C%40turboo_server&amp%3Bsni=discordapp.com&amp%3Bsid=eeb0316389#@Twitro🖤 Toronto 🇨🇦
-vmess://eyJhZGQiOiI1MS43OS42OS4yMDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWY0ZGM3OTktZmEwZC00N2EwLTk0NmItOGFkMGVmNTYyMDk1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NTAiLCJwcyI6IkBUd2l0cm/wn6ehIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#@Twitro🧡 🇨🇦
-vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwidiI6IjIiLCJwcyI6IkBUd2l0cm/wn6SNIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
-vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwidiI6IjIiLCJwcyI6IkBUd2l0cm/wn5KaIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYmFyYWRpaGEuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.211:443 #@Twitro🧡 Montreal 🇨🇦
-ss://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Twitro🖤 Toronto 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJAVHdpdHJv8J+SmiBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@139.177.199.114:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Twitro🤍 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@85.208.108.58:9101 #@Twitro💛 Toronto 🇨🇦
 vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@159.203.6.140:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#@Twitro💚 Toronto 🇨🇦
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro❤️ Montreal 🇨🇦
-vmess://eyJhZGQiOiIyMy4yMjcuMzguODYiLCJhaWQiOiIwIiwiaG9zdCI6ImRvbmd0YWl3YW5nMTMuZHRrdTQ3Lnh5eiIsImlkIjoiOTY5ZjE5MDktYzBkMy00YzMwLTgxM2QtM2FlYzVjODM4YjdkIiwibmV0Ijoid3MiLCJwYXRoIjoiLzFJS1lqVjByLyIsInBvcnQiOiI4MDgwIiwicHMiOiJAVHdpdHJv8J+SmSBPdHRhd2Eg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@138.197.149.46:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Twitro🤎 Toronto 🇨🇦
-vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@68.183.201.171:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#@Twitro🖤 Toronto 🇨🇦
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Twitro💚 Toronto 🇨🇦
+vless://a086f073-c027-4748-a603-931366f3b7a7@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@Twitro🧡 🇨🇦
+vless://5d2f6225-c658-4efe-a57c-53adb435964f@172.105.27.17:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🤎 Toronto 🇨🇦
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@159.203.9.227:443?type=xhttp&path=/sf&host=&mode=stream-one&security=none#@Twitro💚 Toronto 🇨🇦
+vless://651fda6c-aba1-49f2-b1da-0ccb7de0a81d@99.199.73.53:20744?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp #@Twitro🧡 Vancouver 🇨🇦
+vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwidiI6IjIiLCJwcyI6IkBUd2l0cm/wn5KbIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
+ss://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Twitro🧡 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.61:443#@Twitro💜 Toronto 🇨🇦
+vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429/?type=tcp&encryption=none #@Twitro🤎 🇨🇦
+vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=sport-shop-online-02.cyberscaler.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 25 #@Twitro🤍 Vancouver 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTFmNmZlYTc0YjczOTFh@51.161.80.138:12743#@Twitro💜 🇨🇦
+vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?path=%2Fdsjh5tGfRgUy789-jU%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=sport-shop-online-02.cyberscaler.com&fp=chrome&type=ws&sni=sport-shop-online-02.cyberscaler.com#@Twitro💙 Vancouver 🇨🇦
+vmess://eyJhZGQiOiIxNjguMTM4LjY4LjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUyNzY4NTUyLWMyYjItNDQ2MC04OWYxLWU3NDBjYzE0NWI5OSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy1wYXRoIiwicG9ydCI6IjE0MjUyIiwicHMiOiJAVHdpdHJv8J+kjSBNb250cmVhbCDwn4eo8J+HpiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls#@Twitro💛 🇨🇦
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb+KdpO+4jyBUb3JvbnRvIPCfh6jwn4emIiwiYWRkIjoiMTU5LjIwMy4xOC4xMTkiLCJwb3J0IjoiODAiLCJpZCI6ImJjZTU3YzkxLTZjMmQtNGFlNS04OTA2LTc5NWI2Y2ZlYWYyMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoiIiwic25pIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989 #@Twitro🖤 Vancouver 🇨🇦
+vless://57ee25ce-5728-416c-af82-182e158a4a0c@192.46.223.202:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro❤️ Toronto 🇨🇦
+vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Twitro🤍 Toronto 🇨🇦
+vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=/vless/&security=none&encryption=none&type=ws#@Twitro🤎 🇨🇦
+vless://25d32c1a-c4ac-46c9-ab3c-6701e86e43f0@192.46.222.123:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🖤 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.211:443 #@Twitro❤️ Montreal 🇨🇦
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.227.17:989#@Twitro💜 Montreal 🇨🇦
+trojan://89str_hbFiA4Re5VKxLYnDPgy@149.248.50.17:15349?security=tls&headerType=none&type=tcp&sni=ya.ru#@Twitro🖤 Toronto 🇨🇦
+vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.27.63:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🤎 Toronto 🇨🇦
+vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@159.203.9.247:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#@Twitro🤍 Toronto 🇨🇦
+vmess://eyJhZGQiOiIxMzIuMTQ1Ljk5LjIyOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTI3Njg1NTItYzJiMi00NDYwLTg5ZjEtZTc0MGNjMTQ1Yjk5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXBhdGgiLCJwb3J0IjoxMzcyNCwicHMiOiJAVHdpdHJv8J+WpCBUb3JvbnRvIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://9935dbc4-dbbb-40b3-a6b8-884ee158a3ad@172.105.15.70:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🖤 Toronto 🇨🇦
+ss://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?encryption=none&amp;security=reality&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&amp;type=tcp&amp;headerType=none #@Twitro💛 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.95:443#@Twitro💚 Montreal 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.195:800 #@Twitro💛 🇨🇦
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #@Twitro💛 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:805#@Twitro💙 Ottawa 🇨🇦
+vless://25d32c1a-c4ac-46c9-ab3c-6701e86e43f0@172.105.27.212:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🤎 Toronto 🇨🇦
+vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.97.78:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🧡 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.231:3306#@Twitro🤎 Toronto 🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.2:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Twitro🤎 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443 #@Twitro💜 Vancouver 🇨🇦
+vmess://eyJhZGQiOiI5Mi4yNDMuNjQuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjA0Mzk0ZmYtMWEyMy00YTVhLWQ0ZDQtNTNmNjAwN2Y4NGUxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBUd2l0cm/wn5KZIE1vbnRyZWFsIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379#@Twitro🤍 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.59:443#@Twitro💙 Toronto 🇨🇦
+vmess://eyJhZGQiOiIyMy4yMjcuMzguMzgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInBvcnQiOjQ0MywicHMiOiJAVHdpdHJv8J+WpCBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 801 #@Twitro💜 Montreal 🇨🇦
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfkpwgTW9udHJlYWwg8J+HqPCfh6YiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJpbm5hLmNmZCIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
+vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBUd2l0cm/wn6SOIE1vbnRyZWFsIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNDkuNTYuOTUuMTU5IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxYzc4OTA5ZS0xOGE4LTRjN2YtZjZhMC1lMDkyYWFlNjI0M2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MjM3ODQsInBzIjoiQFR3aXRyb/CfpI0gTW9udHJlYWwg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiIyMy4yMjcuMzguMjQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImM1YTJkN2I4LWJmODQtNGY5Ny04NTc3LWI5Yjg3ZjJiYWFmNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9BVUlLTjhBVSIsInBvcnQiOjQ0MywicHMiOiJAVHdpdHJv8J+WpCBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=none&encryption=none&headerType=none&type=tcp #@Twitro💜 Ottawa 🇨🇦
+vless://0b965a09-31d7-4c04-adb2-0737ff0bb284@23.227.38.32:443?security=tls&type=ws&path=/77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#@Twitro💛 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#@Twitro🧡 🇨🇦
+trojan://bpb-trojan@23.227.60.8:443#@Twitro💜 🇨🇦
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@134.195.196.107:8009#@Twitro💙 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@138.197.166.205:811#@Twitro💙 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.21:443 #@Twitro🤎 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206dWd5QmtTRUZ4VkVtVVlTSHl2eG1XTmo5@198.8.92.84:40220#@Twitro🖤 Vancouver 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.51:443 #@Twitro💙 Toronto 🇨🇦
+vless://e732dac3-e181-4709-825d-18cf8f163402@172.105.99.25:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💛 Toronto 🇨🇦
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#@Twitro🤍 Toronto 🇨🇦
+trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#@Twitro💛 🇨🇦
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.111.114.246:8882#@Twitro💙 Toronto 🇨🇦
+trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#@Twitro🤎 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:804#@Twitro🖤 Ottawa 🇨🇦
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?mode=stream-one&path=/sf&security=&encryption=none&type=xhttp#@Twitro🧡 Toronto 🇨🇦
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro💚 Montreal 🇨🇦
+vmess://eyJhZGQiOiI1MS4xNjEuMTMwLjE0MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMzgxMTQ2OGItMzMzNi00YmNiLWFlODQtODYzNTFiOTAxMTU5IiwibmV0Ijoid3MiLCJwYXRoIjoiL0pBR09BTlNTSC8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SmyDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@198.57.27.218:5004#@Twitro💛 Toronto 🇨🇦
+vmess://eyJhZGQiOiIyMy4yMjcuMzguMTAwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3YjFiMmZhMy1lMzYxLTQ4Y2MtYjczZC0yYzk2MzZjNzZmNGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVU1XMzYyNjIiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfpI4gT3R0YXdhIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#@Twitro💛 Vancouver 🇨🇦
+vmess://eyJhZGQiOiIxOTIuOTkuOC45OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDVjMzgzOTktNTI5Ni00YmYyLWE2MDYtMWNlYzNiNzFjOTQyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjM2MDA1LCJwcyI6IkBUd2l0cm/wn5KcIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&amp;security=none&amp;encryption=none&amp;host=telewebion.com&amp;type=ws#@Twitro💚 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ@193.203.203.66:443 #@Twitro🖤 Toronto 🇨🇦
+trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#@Twitro🧡 Montreal 🇨🇦
+vless://8c6471c4-c346-40b7-b972-9bbf973576b3@172.105.102.245:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💙 Toronto 🇨🇦
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.43.216:110 #@Twitro💙 Toronto 🇨🇦
+vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6InRndXMuY2xvdWRmbGFyZS5xdWVzdCIsImlkIjoiMzUzYmJmNWYtYTI2NC00NzMxLWU3MzUtOTg0ZTYxMWMyZTAxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBUd2l0cm/wn5KbIE90dGF3YSDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dU1xa0dJeDZJYTA=@138.197.174.245:56443#@Twitro🤍 Toronto 🇨🇦
+vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQFR3aXRyb/CfpI0g8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfkpog8J+HqPCfh6YiLCJhZGQiOiI1MS43OS4xMDIuMjUzIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.92:443#@Twitro💙 Toronto 🇨🇦
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@74.49.214.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Twitro🤎 🇨🇦
+ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@37.19.211.114:50695#@Twitro🖤 Toronto 🇨🇦
+vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=/linkws?ed&security=none&encryption=none&host=51.79.103.225&type=ws#@Twitro🖤 🇨🇦
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.18:8888#@Twitro🧡 Toronto 🇨🇦
+vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp #@Twitro💚 Vancouver 🇨🇦
+vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643/?type=tcp&encryption=none #@Twitro🖤 🇨🇦
+vmess://eyJhZGQiOiIyMy4yMjcuNjAuMTg0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3MzM3NmM3MC0zMTA4LTExZWUtOTcxMC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOjIwOTYsInBzIjoiQFR3aXRyb/Cfp6Eg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInNlY3VyaXR5Ijoibm9uZSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://f8629dd0-239a-4a44-b4c0-8041f5e403ca@172.105.18.242:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro🤎 Toronto 🇨🇦
+vless://5d2f6225-c658-4efe-a57c-53adb435964f@192.53.123.112:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💜 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@134.195.196.149:8080 #@Twitro💜 Toronto 🇨🇦
+vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@68.183.201.171:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#@Twitro❤️ Toronto 🇨🇦
+vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.97.4:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💙 Toronto 🇨🇦
+vmess://eyJhZGQiOiI1MS43OS42OS4yMDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWY0ZGM3OTktZmEwZC00N2EwLTk0NmItOGFkMGVmNTYyMDk1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NTAiLCJwcyI6IkBUd2l0cm/wn5akIPCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?path=/linkws?ed=2560&security=none&encryption=none&host=51.79.29.17&type=ws&sni=51.79.29.17#@Twitro💛 🇨🇦
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 400 #@Twitro🤎 Toronto 🇨🇦
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfp6EgT3R0YXdhIPCfh6jwn4emIiwiYWRkIjoiU2hvcGlmeS5jb20iLCJwb3J0IjoiMjA4NiIsImlkIjoiZGRjZDY2ZmQtYzcxNi00MzljLTlhYjgtMmFkYjE0MDBmZjQ4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InNjdy5jbG91ZGZsYXJlLnF1ZXN0IiwicGF0aCI6Ii9hcmllcyIsInRscyI6IiIsInNuaSI6IiJ9
+vless://3956dd35-4f86-4b48-a1ca-45a3dbe471a0@51.222.86.7:51952/?type=tcp&encryption=none #@Twitro🧡 🇨🇦
+vless://5b8192cd-ca98-4084-a2ae-99bf1ea2fa2a@159.89.120.125:443?mode=stream-one&path=/sd&security=&encryption=none&type=xhttp#@Twitro🤍 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@72.140.224.197:801#@Twitro🧡 🇨🇦
+vless://cf5a73e1-e1ba-4a21-aadd-2ed60eae1b52@axe.djjw8292n.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.djjw8292n.ir&type=ws&sni=mojito.djjw8292n.ir#@Twitro💛 🇨🇦
+trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@Twitro🖤 🇨🇦
+trojan://Fv7ogJ6vfz@209.200.246.53:36774?mode=gun&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&type=grpc&sni=cloudflare.com&sid=3e#@Twitro💜 Toronto 🇨🇦
+vless://57ee25ce-5728-416c-af82-182e158a4a0c@172.105.20.139:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🤍 Toronto 🇨🇦
+vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp #@Twitro💛 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.143:805 #@Twitro🖤 Toronto 🇨🇦
+vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@172.105.24.223:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Twitro💜 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:807 #@Twitro🤍 Toronto 🇨🇦
+vless://4c7dd8f5-752b-401b-a0a6-eebbf91b361b@172.105.3.132:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro💚 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Twitro💙 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.94:443 #@Twitro💚 Toronto 🇨🇦
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&encryption=none&headerType=none&type=tcp #@Twitro❤️ Ottawa 🇨🇦
+vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@172.105.19.143:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro💚 Toronto 🇨🇦
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@159.203.10.217:443?type=xhttp&path=/sf&host=&mode=stream-one&security=none#@Twitro🤍 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMGZiNTY3NTJkM2Y3NTlk@51.79.54.90:45398 #@Twitro💙 🇨🇦
+vless://turboo-server@canada.turboo-server.com:10538?mode=gun&amp%3Bsecurity=reality&amp%3Bencryption=none&amp%3Bpbk=lTkMprNNGET2C1Mxr9YH_MUopv4zttTN8pCa-GwNBwU&amp%3Bfp=firefox&amp%3Bspx=%2F&amp%3Btype=grpc&amp%3BserviceName=Telegram%3A%40turboo_server%2C%40turboo_server&amp%3Bsni=discordapp.com&amp%3Bsid=eeb0316389#@Twitro🧡 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.161.118.38:805#@Twitro🖤 Beauharnois 🇨🇦
+vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI3IiwidiI6IjIiLCJwcyI6IkBUd2l0cm/wn6SNIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoibWFua2FkbXUuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
+vless://f67b1db2-8eab-429a-a95b-a611c1bd24a6@thumbnails.torplay.ir:8443?security=none&encryption=none&headerType=none&type=tcp #@Twitro💚 🇨🇦
+vmess://eyJhZGQiOiIxMzguMTk3LjE2NS4zMSIsImFpZCI6NCwiaG9zdCI6IiIsImlkIjoiMmVkNjA5ZDAtNzQ2Ny00NzFiLTk0YTktMzRhNzM0Y2NjNDBhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy9oZC5tM3U4IiwicG9ydCI6ODA4MCwicHMiOiJAVHdpdHJv8J+SmSBUb3JvbnRvIPCfh6jwn4emIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#@Twitro💛 Toronto 🇨🇦
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro🤍 Montreal 🇨🇦
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro🧡 Montreal 🇨🇦
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 234 #@Twitro❤️ Vancouver 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfY2E@ca-1.stunnel.cc:8444 #@Twitro🤍 🇨🇦
+vless://30837eab-df8b-404e-bee7-02c9c0c971b3@static.cdn-assets-v3.fonts.googleapis-com.edge-cache.deepcloudview.com:443?security=reality&encryption=none&pbk=oB-k13V7puuNgwAmA7Ol-TGIVOkU1vJEnXs8CBjXtnk&headerType=none&fp=chrome&spx=/cdn-assets-v3&type=tcp&flow=xtls-rprx-vision&sni=fonts.googleapis.com&sid=42843d2219#@Twitro💜 Surrey 🇨🇦
+vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro💛 Toronto 🇨🇦
+vmess://eyJhZGQiOiIyMy4yMjcuMzguMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiJAVHdpdHJv8J+WpCBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb+KdpO+4jyBPdHRhd2Eg8J+HqPCfh6YiLCJhZGQiOiIyMy4yMjcuMzguMTAwIiwicG9ydCI6IjQ0MyIsImlkIjoiN2IxYjJmYTMtZTM2MS00OGNjLWI3M2QtMmM5NjM2Yzc2ZjRiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InYycmF5MS56aHVqaWNuMi5vcmciLCJwYXRoIjoiL1VNVzM2MjYyIiwidGxzIjoidGxzIiwic25pIjoiIn0=
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#@Twitro💚 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@85.208.108.20:7002#@Twitro💜 Toronto 🇨🇦
+vless://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d037f6f67cc90016#@Twitro🧡 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1V6WkdVeQ@146.19.106.89:8388 #@Twitro🧡 Toronto 🇨🇦
+vless://4c7dd8f5-752b-401b-a0a6-eebbf91b361b@172.105.17.26:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💛 Toronto 🇨🇦
+vless://25ec3d8a-8b33-42b0-af3e-94777a31ac2b@172.105.19.41:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💛 Toronto 🇨🇦
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@149.248.58.105:80?path=/rfvtgws&security=none&encryption=none&type=ws#@Twitro💛 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@85.208.108.93:5000 #@Twitro💛 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443 #@Twitro❤️ Montreal 🇨🇦
+ss://b4df5662-9ae5-4e49-a042-353ac99fd572@139.177.199.49:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Twitro🖤 Toronto 🇨🇦
+vmess://eyJhZGQiOiIxNTguNTEuMTIxLjM2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJAVHdpdHJv8J+WpCBNb250cmVhbCDwn4eo8J+HpiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#@Twitro💚 🇨🇦
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 792 #@Twitro💛 Vancouver 🇨🇦
+vless://b4df5662-9ae5-4e49-a042-353ac99fd572@139.177.199.49:443?mode=stream-one&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;type=xhttp #@Twitro🤍 Toronto 🇨🇦
+vless://e732dac3-e181-4709-825d-18cf8f163402@172.105.102.124:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💜 Toronto 🇨🇦
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=🔒 [By EbraSha] #@Twitro🤍 🇨🇦
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfpI4g8J+HqPCfh6YiLCJhZGQiOiIxNS4yMzUuNDEuMjAwIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#@Twitro💙 Vancouver 🇨🇦
+vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051/?type=tcp&encryption=none #@Twitro❤️ 🇨🇦
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJ2IjoiMiIsInBzIjoiQFR3aXRyb+KdpO+4jyBNb250cmVhbCDwn4eo8J+HpiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&amp%3Bpath=%2F&amp%3Bhost=capitalnet.sameasyou.sbs&amp%3Bsecurity=tls&amp%3Bfp=firefox&amp%3Balpn=h2%2Chttp%2F1.1&amp%3Bsni=joinchannel.sameasyou.sbs#@Twitro🧡 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.200.162:990#@Twitro💛 Toronto 🇨🇦
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=🔒 [By EbraSha]&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=test43.pages.dev&amp%3Btype=ws&amp%3Bsni=🔒 [By EbraSha] #@Twitro🤎 🇨🇦
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro💙 Montreal 🇨🇦
+vless://d9e62b6c-e55f-4e10-8743-28814b96c3a5@209.200.246.41:443?security=reality&encryption=none&pbk=aoCZDbk01UfRd6uOZ9kw39-GXVoOTLHnnKPcCcAJDBI&headerType=none&fp=chrome&spx=/ZFk3uRYJBnAtExS&type=tcp&flow=xtls-rprx-vision&sni=ca1.vpnskyline.com&sid=8f975533#@Twitro🖤 Toronto 🇨🇦
+vless://5b8192cd-ca98-4084-a2ae-99bf1ea2fa2a@147.182.159.245:443?mode=stream-one&path=/sd&security=&encryption=none&type=xhttp#@Twitro💛 Toronto 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#@Twitro💙 Montreal 🇨🇦
+vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwidiI6IjIiLCJwcyI6IkBUd2l0cm/wn5KbIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYmFyYWRpaGEuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
+vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6Imxpbm9kZS5jbG91ZGZsYXJlLnF1ZXN0IiwiaWQiOiI0Mzk3ZDA2Ni1mNzUzLTQzMDAtZTdlZC00NDc5N2RkZmNkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJpZXMiLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+kjiBPdHRhd2Eg8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiIxMzcuMTg0LjE2NC4yMzMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjVjZWU5MGUzLWI5MTUtNGYxZS1iYjhkLWVmYWRhZDBjNmZlYiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOjgwLCJwcyI6IkBUd2l0cm/wn5KZIFRvcm9udG8g8J+HqPCfh6YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=d037f6f67cc90016#@Twitro🖤 🇨🇦
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfkpogVG9yb250byDwn4eo8J+HpiIsImFkZCI6IjEzNC4xMjIuNDEuMTYwIiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidGxzIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990#@Twitro🤎 Montreal 🇨🇦
+vmess://eyJhZGQiOiJzaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6InRndWsuY2xvdWRmbGFyZS5xdWVzdCIsImlkIjoiMzZiZDk5NjktYmI5Ni00YmRkLWE2ZGYtOTYwYmJkOGU0NDM5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjgwLCJwcyI6IkBUd2l0cm/wn6SNIE90dGF3YSDwn4eo8J+HpiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://55975415-43c0-461c-8752-d5b8013364e3@167.17.70.16:8443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=84f70f1177981563&pbk=8W9r2aXGhKNtvPxnL6EiPpQuSm9OJT17x2xyxwxIo30&encryption=none#@Twitro💜 🇨🇦
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC45MiIsImFpZCI6MSwiaG9zdCI6IjEzNC4xOTUuMTk4LjkyIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn6SOIE1vbnRyZWFsIPCfh6jwn4emIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vmess://eyJhZGQiOiIyMy4yMjcuMzguODYiLCJhaWQiOiIwIiwiaG9zdCI6ImRvbmd0YWl3YW5nMTMuZHRrdTQ3Lnh5eiIsImlkIjoiOTY5ZjE5MDktYzBkMy00YzMwLTgxM2QtM2FlYzVjODM4YjdkIiwibmV0Ijoid3MiLCJwYXRoIjoiLzFJS1lqVjByLyIsInBvcnQiOiI4MDgwIiwicHMiOiJAVHdpdHJv8J+SmiBPdHRhd2Eg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+vless://30bcf69c-1818-4581-988a-842f53ee6bea@android-config.gstatic.cyberscaler.net:443?mode=stream-up&path=/s2/oz/images/notifications/nt8.png&security=reality&encryption=none&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&fp=chrome&spx=/s2/oz/images/notifications/nt8.png&type=xhttp&sni=ssl.gstatic.com&sid=e3a97c5b21#@Twitro🖤 Surrey 🇨🇦
+vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-ca4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-ca4-cdn.fastfilecdn.org&fp=chrome&type=ws#@Twitro💙 🇨🇦
+vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@Twitro💚 Ottawa 🇨🇦
+vless://9b1bd0fe-4e14-44b9-8f43-075924389f25@149.248.52.96:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@Twitro💜 Toronto 🇨🇦
+vless://c5fe2244-df45-4efe-8abe-9699e7802697@172.105.29.78:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro🖤 Toronto 🇨🇦
+vless://2e6037b9-87b2-4442-91f9-71c41a586a55@51.79.103.117:443?path=🔒 [By EbraSha]&security=none&encryption=none&host=51.79.103.117&type=ws #@Twitro❤️ 🇨🇦
+trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=syndication-statutes-wanted-logo.trycloudflare.com&allowInsecure=1&path=/argox-tr#@Twitro🤍 Ottawa 🇨🇦
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:443#@Twitro💛 Toronto 🇨🇦
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicHMiOiJAVHdpdHJv8J+noSBUb3JvbnRvIPCfh6jwn4emIiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
+vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321/?type=tcp&encryption=none #@Twitro🖤 Toronto 🇨🇦
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@138.197.149.46:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #@Twitro🧡 Toronto 🇨🇦
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#@Twitro💛 Beauharnois 🇨🇦
+trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 581 #@Twitro❤️ Montreal 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@Twitro🤍 🇨🇦
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.85:5001 #@Twitro💛 Toronto 🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #@Twitro💜 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.147:990#@Twitro💙 Montreal 🇨🇦
+vless://b0ff01b1-04d3-4b01-8ba9-b1dc47416c07@15.235.45.229:40853/?type=grpc&amp%3Bencryption=none&amp%3BserviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Twitro🤎 🇨🇦
+vless://ea96b13d-68f1-4f30-aeb5-d7ebf7c84e78@192.46.222.41:443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #@Twitro💙 Toronto 🇨🇦
