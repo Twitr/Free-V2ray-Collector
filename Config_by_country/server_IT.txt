@@ -1,48 +1,45 @@
-vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=stackoverflow.com&amp;sid=86ba053c74aaba8e#@Twitro🧡 Arezzo 🇮🇹
-vless://TELEGRAM-CONFiGLiNE-99@de.fastlynew.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&security=&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp #@Twitro💛 Milan 🇮🇹
-vless://turboo-server@server.ultra-irancell.com:80?path=/ed=2560&security=none&encryption=none&host=turboo-server.io&type=ws#@Twitro🧡 Milan 🇮🇹
-vmess://eyJhZGQiOiIxMDkuMTIyLjIwOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6NDgzNzcsInBzIjoiQFR3aXRyb/Cfkpog8J+HrvCfh7kiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#@Twitro🖤 🇮🇹
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp#@Twitro💛 Milan 🇮🇹
-vless://GKVCVNnu@151.101.242.172:80?mode=auto&security=none&encryption=none&host=sdarkrd.global.ssl.fastly.net&type=xhttp #@Twitro💙 Milan 🇮🇹
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#@Twitro💜 Milan 🇮🇹
-vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#@Twitro🧡 Arezzo 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443 #@Twitro🖤 Milan 🇮🇹
-trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#@Twitro💙 Rome 🇮🇹
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#@Twitro💙 Rome 🇮🇹
-vless://6768a90d-1092-46c7-fbf1-5bb8b695b2b9@151.101.241.242:80?mode=auto&path=🔒 [By EbraSha]&host=hqTm.iR&type=xhttp #@Twitro💜 Milan 🇮🇹
-ss://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=Demon02.global.ssl.fastly.net&amp;type=xhttp #@Twitro💚 Milan 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@92.223.93.233:1035 #@Twitro💜 Milan 🇮🇹
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#@Twitro🧡 Siziano 🇮🇹
-ss://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=2096vless #@Twitro❤️ Milan 🇮🇹
-ss://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=stackoverflow.com&amp;sid=86ba053c74aaba8e#@Twitro🤍 Arezzo 🇮🇹
-vless://7e40a567-f9c1-44cc-af81-85ac16a9bdf3@5.59.248.39:40001?security=none&encryption=none&headerType=http&type=tcp#@Twitro🧡 Pomezia 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOThjOWE2Mzk5MDY0MjI3@157.185.130.3:49336#@Twitro💚 Milan 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#@Twitro💚 Milan 🇮🇹
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#@Twitro💛 Milan 🇮🇹
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@italy.ipirjshs.dai.is.vtuix.ir:7676?path=/&security=&encryption=none&type=ws#@Twitro💙 Arezzo 🇮🇹
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#@Twitro🤎 Milan 🇮🇹
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#@Twitro🤎 Rome 🇮🇹
-ss://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=175d #@Twitro🤎 Rome 🇮🇹
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#@Twitro💙 Milan 🇮🇹
-vless://6768a90d-1092-46c7-fbf1-5bb8b695b2b9@SRCVPN.fastlynew.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&host=hqTm.iR&type=xhttp #@Twitro❤️ Milan 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#@Twitro💚 Milan 🇮🇹
-ss://YXV0bzo=@176.126.83.158:990#@Twitro💚 Florence 🇮🇹
+vless://6768a90d-1092-46c7-fbf1-5bb8b695b2b9@SRCVPN.fastlynew.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&host=hqTm.iR&type=xhttp #@Twitro💛 Milan 🇮🇹
+ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@84.33.193.79:18760 #@Twitro💜 🇮🇹
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha] ➠ @SkyPro_Vpn کانال تلگرام #@Twitro🤍 Milan 🇮🇹
+vless://GKVCVNnu@151.101.242.172:80?mode=auto&security=none&encryption=none&host=sdarkrd.global.ssl.fastly.net&type=xhttp #@Twitro💚 Milan 🇮🇹
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNw@82.102.26.117:44236#@Twitro💚 Rome 🇮🇹
+vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@146.75.55.82:80/?type=ws&encryption=none&host=EtZM4uyEwUnSfh.com&path=🔒 [By EbraSha] #@Twitro💛 Milan 🇮🇹
+ss://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=175d #@Twitro💙 Rome 🇮🇹
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#@Twitro💜 Milan 🇮🇹
+ss://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=stackoverflow.com&amp;sid=86ba053c74aaba8e#@Twitro❤️ Arezzo 🇮🇹
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#@Twitro🖤 Milan 🇮🇹
+vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless #@Twitro💜 Milan 🇮🇹
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp#@Twitro💙 Milan 🇮🇹
+vless://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=175d #@Twitro💜 Rome 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#@Twitro💚 Milan 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@92.223.93.233:1035 #@Twitro💙 Milan 🇮🇹
+vless://6768a90d-1092-46c7-fbf1-5bb8b695b2b9@151.101.241.242:80?mode=auto&path=🔒 [By EbraSha]&host=hqTm.iR&type=xhttp #@Twitro❤️ Milan 🇮🇹
+vless://1820765e-c193-4ae1-a96c-f2c476becb4b@95.141.37.73:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=aws.com&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@Twitro🤍 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOThjOWE2Mzk5MDY0MjI3@157.185.130.3:49336 #@Twitro🤎 Milan 🇮🇹
+vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&alpn=http/1.1&encryption=none&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itgetsbetter.org&sid=462c73aef9f448#@Twitro💜 Milan 🇮🇹
 vless://a6b57d25-a1ca-4ce8-8a93-ac5eaaa8dae4@cdi.chekino.ir:20811?security=reality&encryption=none&pbk=80GXkWEUDeEH0poV8IPGiukSZbn1BrMAZt9wxn2q00E&headerType=none&fp=chrome&spx=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&sni=gameup.ir&sid=22b2598a025a3fde#@Twitro💚 Arezzo 🇮🇹
-vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless #@Twitro🤍 Milan 🇮🇹
-vless://c5b3682f-7291-5f76-8ba1-0264413f6684@95.164.46.39:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc #@Twitro🤍 Rome 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#@Twitro🧡 Florence 🇮🇹
-vless://b0d42446-ab52-4d5c-85cd-54232723670c@141.227.140.189:30239?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Twitro🤎 Milan 🇮🇹
-ss://telegram-turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=jone-turboo-server.com&amp;type=ws#@Twitro💙 Milan 🇮🇹
-vless://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=175d #@Twitro❤️ Rome 🇮🇹
-vless://TELEGRAM-CONFiGLiNE-83@chanel.fastlynew.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=barakanal2.global.ssl.fastly.net&type=xhttp #@Twitro💛 Milan 🇮🇹
-ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@84.33.193.79:18760 #@Twitro🤍 🇮🇹
-vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@146.75.55.82:80/?type=ws&encryption=none&host=EtZM4uyEwUnSfh.com&path=🔒 [By EbraSha] #@Twitro💜 Milan 🇮🇹
-vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&alpn=http/1.1&encryption=none&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itgetsbetter.org&sid=462c73aef9f448#@Twitro💚 Milan 🇮🇹
-vless://1820765e-c193-4ae1-a96c-f2c476becb4b@95.141.37.73:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=aws.com&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@Twitro💛 🇮🇹
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha] ➠ @SkyPro_Vpn کانال تلگرام #@Twitro❤️ Milan 🇮🇹
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007 #@Twitro🤎 Milan 🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#@Twitro🤎 Milan 🇮🇹
-vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=&encryption=none&headerType=&type=tcp#@Twitro💛 Arezzo 🇮🇹
-vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80/?type=xhttp&encryption=none #@Twitro💚 Milan 🇮🇹
-vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#@Twitro🧡 Arezzo 🇮🇹
+vless://2f30aa44-c87c-e73d-a715-0813c68ee9b2@93.186.254.141:9804?security=&encryption=none&headerType=&type=tcp#@Twitro🤎 Arezzo 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#@Twitro❤️ Milan 🇮🇹
+trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#@Twitro💛 Rome 🇮🇹
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#@Twitro🖤 Rome 🇮🇹
+vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=%2F&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=filimo.com&amp%3Btype=ws#@Twitro💚 Arezzo 🇮🇹
+vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80/?type=xhttp&encryption=none #@Twitro🧡 Milan 🇮🇹
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#@Twitro🤎 Siziano 🇮🇹
+ss://telegram-turboo-server@server.ultra-irancell.com:80?path=%2Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=jone-turboo-server.com&amp;type=ws#@Twitro❤️ Milan 🇮🇹
+vless://turboo-server@server.ultra-irancell.com:80?path=/ed=2560&security=none&encryption=none&host=turboo-server.io&type=ws#@Twitro💜 Milan 🇮🇹
+vmess://eyJhZGQiOiIxMDkuMTIyLjIwOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6NDgzNzcsInBzIjoiQFR3aXRyb/Cfp6Eg8J+HrvCfh7kiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&amp;path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;host=Demon02.global.ssl.fastly.net&amp;type=xhttp #@Twitro💛 Milan 🇮🇹
+vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@80.211.139.106:651?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=stackoverflow.com&amp;sid=86ba053c74aaba8e#@Twitro💜 Arezzo 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#@Twitro❤️ Florence 🇮🇹
+vless://TELEGRAM-CONFiGLiNE-99@de.fastlynew.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&security=&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp #@Twitro🧡 Milan 🇮🇹
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#@Twitro💜 Milan 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443 #@Twitro💚 Milan 🇮🇹
+ss://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=2096vless #@Twitro🖤 Milan 🇮🇹
+vless://TELEGRAM-CONFiGLiNE-83@chanel.fastlynew.hosting-ip.com:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=barakanal2.global.ssl.fastly.net&type=xhttp #@Twitro🖤 Milan 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#@Twitro💛 Milan 🇮🇹
+vless://c5b3682f-7291-5f76-8ba1-0264413f6684@95.164.46.39:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc #@Twitro💚 Rome 🇮🇹
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#@Twitro💚 Milan 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#@Twitro💚 🇮🇹
+vless://b0d42446-ab52-4d5c-85cd-54232723670c@141.227.140.189:30239?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Twitro🤍 Milan 🇮🇹
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#@Twitro💚 Milan 🇮🇹
+ss://YXV0bzo=@176.126.83.158:990#@Twitro❤️ Florence 🇮🇹
