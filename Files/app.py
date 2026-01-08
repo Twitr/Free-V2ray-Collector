@@ -206,6 +206,6 @@ if __name__ == "__main__":
     logger.info("Starting collector run")
     while True:
         main()
-        time.sleep(3 * 60 * 60)
+        time.sleep(1.5 * 60 * 60)
         logger.info("It went sleep")
 
