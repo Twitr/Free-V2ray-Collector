@@ -1,22 +1,22 @@
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.133.35.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #@Twitro💙 🇧🇷
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=ws #@Twitro🤎 São Paulo 🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18426#@Twitro💙 São Paulo 🇧🇷
-vless://6d1d5a70-ced7-46de-be13-d4fe780e27b7@38.54.57.180:80?encryption=none&security=none&type=ws&host=br1.v2vless.xyz&path=🔒 [By EbraSha] #@Twitro🤍 Sao Paulo 🇧🇷
-vmess://eyJhZGQiOiI5NS4xNjQuNC44OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv4p2k77iPIFPDo28gUGF1bG8g8J+Hp/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@sao-br.fromblancwithlove.com:8443/?type=tcp&encryption=none&security=tls&alpn=h2 #@Twitro🤎 São Paulo 🇧🇷
-ss://YWVzLTI1Ni1nY206NzExNDZiODMtMmJjMC00MjU4LTgzMGEtYTdjMjViZjFjNjM2@132.226.164.14:7705 #@Twitro💛 São Paulo 🇧🇷
-vmess://eyJ2IjpudWxsLCJwcyI6IkBUd2l0cm/wn5akIFPDo28gUGF1bG8g8J+Hp/Cfh7ciLCJhZGQiOiI5NS4xNjQuNC44OCIsInBvcnQiOjgwLCJpZCI6IjI0YjZiYmZiLTliMjctNGYxNy1iZDMyLTY3NTIzYmY0ODdkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0=
+vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=ws #@Twitro🖤 São Paulo 🇧🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.133.35.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Twitro🤍 🇧🇷
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443/?type=ws&encryption=none&host=uu.vs2024.us.kg #@Twitro💛 🇧🇷
+vless://6d1d5a70-ced7-46de-be13-d4fe780e27b7@38.54.57.180:80?encryption=none&security=none&type=ws&host=br1.v2vless.xyz&path=🔒 [By EbraSha] #@Twitro💚 Sao Paulo 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#@Twitro💚 Sao Paulo 🇧🇷
 vmess://eyJhZGQiOiIxODUuMTMzLjM1LjE3OCIsImFpZCI6MCwiaG9zdCI6ImUxMzA5MTdjLTFiNTgtNDEzNi1iMmQ5LTc2ZGM5MjBlMGFkZC5hZGQ5N2VlOC0wZjE0LTQ4YTMtYjJjZC05NzljNTY3NDJlNjQubG9zZXlvdXJpcC5jb20iLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfpI0g8J+Hp/Cfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiI0NS4yMzEuMTMyLjQ2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyM2JkZjZkZi1jNDgyLTQ2ZDAtYzBmNC01YTk4ZDUzNGVhMTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDU5NzksInBzIjoiQFR3aXRyb/CfkpwgU8OjbyBQYXVsbyDwn4en8J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443/?type=ws&encryption=none&host=uu.vs2024.us.kg #@Twitro🖤 🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg@147.45.116.44:443 #@Twitro❤️ São Paulo 🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR1dzcUU3R3IzblJNdXVRWmZGYQ@177.54.152.89:8389#@Twitro💚 São Paulo 🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#@Twitro💚 Santana de Parnaíba 🇧🇷
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.133.35.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #@Twitro💛 🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#@Twitro💜 São Paulo 🇧🇷
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989 #@Twitro💚 Sao Paulo 🇧🇷
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfp6EgU8OjbyBQYXVsbyDwn4en8J+HtyIsImFkZCI6Ijc4LjExMS4xMDIuMjMyIiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfkpogU8OjbyBQYXVsbyDwn4en8J+HtyIsImFkZCI6Ijc4LjExMS4xMDIuMjMyIiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidGxzIjoiIn0=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org #@Twitro🧡 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18426#@Twitro💛 São Paulo 🇧🇷
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@sao-br.fromblancwithlove.com:8443/?type=tcp&encryption=none&security=tls&alpn=h2 #@Twitro💙 São Paulo 🇧🇷
+vmess://eyJhZGQiOiI0NS4yMzEuMTMyLjQ2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyM2JkZjZkZi1jNDgyLTQ2ZDAtYzBmNC01YTk4ZDUzNGVhMTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDU5NzksInBzIjoiQFR3aXRyb/CfpI4gU8OjbyBQYXVsbyDwn4en8J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1nY206NzExNDZiODMtMmJjMC00MjU4LTgzMGEtYTdjMjViZjFjNjM2@132.226.164.14:7705 #@Twitro💚 São Paulo 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg@147.45.116.44:443 #@Twitro💛 São Paulo 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#@Twitro🧡 Santana de Parnaíba 🇧🇷
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.133.35.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #@Twitro🤎 🇧🇷
+vmess://eyJhZGQiOiI5NS4xNjQuNC44OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SnCBTw6NvIFBhdWxvIPCfh6fwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989 #@Twitro💙 Sao Paulo 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#@Twitro🖤 São Paulo 🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR1dzcUU3R3IzblJNdXVRWmZGYQ@177.54.152.89:8389#@Twitro🤎 São Paulo 🇧🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#@Twitro💛 São Paulo 🇧🇷
-vmess://eyJhZGQiOiIxNzIuMjMzLjE5LjE0MyIsImFpZCI6MSwiaG9zdCI6IjE3Mi4yMzMuMTkuMTQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn5akIFPDo28gUGF1bG8g8J+Hp/Cfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#@Twitro🤍 Sao Paulo 🇧🇷
+vmess://eyJhZGQiOiIxNzIuMjMzLjE5LjE0MyIsImFpZCI6MSwiaG9zdCI6IjE3Mi4yMzMuMTkuMTQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn6SNIFPDo28gUGF1bG8g8J+Hp/Cfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJ2IjpudWxsLCJwcyI6IkBUd2l0cm/wn6SNIFPDo28gUGF1bG8g8J+Hp/Cfh7ciLCJhZGQiOiI5NS4xNjQuNC44OCIsInBvcnQiOjgwLCJpZCI6IjI0YjZiYmZiLTliMjctNGYxNy1iZDMyLTY3NTIzYmY0ODdkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0=
