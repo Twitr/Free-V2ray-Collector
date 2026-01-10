@@ -528,3 +528,7 @@ trojan://telegram-id-directvpn@13.39.204.51:22223?security=tls&alpn=http/1.1&hea
 vless://2a169761-88b9-410d-8d8c-6f2f9ca73b73@85.133.204.213:8080?type=tcp&security=none#%40Twitro%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR
 trojan://telegram-id-directvpn@51.44.57.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
 trojan://telegram-id-privatevpns@51.44.57.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+vless://84b24517-2989-4f23-b6df-a12effc3c432@51.250.110.75:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40Twitro%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045/?type=tcp&encryption=none&flow=&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#%40Twitro%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV
+trojan://telegram-id-directvpn@63.181.72.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
+trojan://telegram-id-privatevpns@63.181.72.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
