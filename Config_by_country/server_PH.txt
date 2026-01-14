@@ -1,8 +1,8 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=redw.pooriam.ir&type=ws #@Twitro💚 🇵🇭
-ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org #@Twitro🤍 🇵🇭
+trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls #@Twitro❤️ 🇵🇭
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=redw.pooriam.ir&type=ws #@Twitro❤️ 🇵🇭
 vless://0d93b787-b66b-4696-a036-a0f549764f69@86.106.26.239:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=ae.fasti.win&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&type=tcp&path=/#@Twitro🤍 Davao City 🇵🇭
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.83.2.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Twitro💚 🇵🇭
-vmess://eyJhZGQiOiI4LjIyMC4xODguMjM4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MWI1N2M4NC02OThmLTQ5NDQtOTI2OC1kYjZhMDZhNGE2M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MzMyNDgsInBzIjoiQFR3aXRyb/CfkpsgTWFuaWxhIPCfh7Xwn4etIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls #@Twitro💛 🇵🇭
+vmess://eyJhZGQiOiIxNTQuODMuMi45MCIsImFpZCI6MCwiaG9zdCI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsImlkIjoiNzEyNzcyYzItZjdkNy00ZDMzLWJmMDItYjdhN2U1ZjcyOWM0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwODcsInBzIjoiQFR3aXRyb/Cfp6Eg8J+HtfCfh60iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJzbmFQUGZvb2QxLmVTTWFJbGtvckVhLnNIb1AifQ==
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org #@Twitro🖤 🇵🇭
-vmess://eyJhZGQiOiIxNTQuODMuMi45MCIsImFpZCI6MCwiaG9zdCI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCIsImlkIjoiNzEyNzcyYzItZjdkNy00ZDMzLWJmMDItYjdhN2U1ZjcyOWM0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwODcsInBzIjoiQFR3aXRyb+KdpO+4jyDwn4e18J+HrSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNuYVBQZm9vZDEuZVNNYUlsa29yRWEuc0hvUCJ9
+vmess://eyJhZGQiOiI4LjIyMC4xODguMjM4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MWI1N2M4NC02OThmLTQ5NDQtOTI2OC1kYjZhMDZhNGE2M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MzMyNDgsInBzIjoiQFR3aXRyb/CflqQgTWFuaWxhIPCfh7Xwn4etIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.83.2.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #@Twitro💜 🇵🇭
+ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org #@Twitro🖤 🇵🇭

@@ -617,3 +617,7 @@ trojan://telegram-id-privatevpns@51.44.43.82:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@51.44.43.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
 trojan://telegram-id-privatevpns@13.36.22.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
 trojan://telegram-id-directvpn@13.36.22.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#%40Twitro%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%40Twitro%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT
+trojan://telegram-id-privatevpns@35.181.131.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+trojan://telegram-id-directvpn@35.181.131.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
