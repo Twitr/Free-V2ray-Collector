@@ -621,3 +621,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#%4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%40Twitro%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT
 trojan://telegram-id-privatevpns@35.181.131.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
 trojan://telegram-id-directvpn@35.181.131.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+vless://738f4d80-aff7-4f02-a27d-7168c34181ff@217.13.104.101:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%40Twitro%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20HU
