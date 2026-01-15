@@ -627,3 +627,5 @@ vless://07095332-84b5-4d94-a259-9a0d13ba108f@84.201.164.23:443?security=reality&
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=%2Fpatricv2_bot&security=none&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#%40Twitro%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US
 vless://e258977b-e413-4718-a3af-02d75492c349@57.128.179.254:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
 vless://e258977b-e413-4718-a3af-02d75492c349@45.82.176.46:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1&fp=chrome#%40Twitro%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL
+trojan://telegram-id-directvpn@51.45.55.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
+trojan://telegram-id-privatevpns@51.45.55.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40Twitro%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR
