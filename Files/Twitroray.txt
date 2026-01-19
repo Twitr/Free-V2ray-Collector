@@ -725,3 +725,7 @@ vless://939d5184-11d9-4dc9-9ce0-6427cdf03d55@151.101.241.242:80?path=%2FUpload&s
 vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584?security=none&encryption=none&headerType=none&type=tcp#%40Twitro%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
 vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@212.113.109.101:2584?security=none&encryption=none&headerType=none&type=tcp#%40Twitro%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJAVHdpdHJvIHwg8J+HqfCfh6ogREUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@84.252.138.149:47014?security=none&encryption=none&headerType=none&type=tcp#%40Twitro%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU
+vless://e258977b-e413-4718-a3af-02d75492c349@188.253.27.190:443?path=%2F&security=tls&encryption=none&host=ww3.xaniujp1.qzz.io&type=ws&sni=ww3.xaniujp1.qzz.io#%40Twitro%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL
+vless://661e8eb5-c7eb-4bb0-b58f-46a5bb3f8f74@norkello.online:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=8f222b3475800821#%40Twitro%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%40Twitro%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE
