@@ -14959,3 +14959,67 @@ Pushed to origin/main.
 Sorting by protocol:   0%|          | 0/15487 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 15487/15487 [00:00<00:00, 1169198.95cfg/s]
 2026-01-20 19:30:24,295 [INFO] save_config: Saving 3549942 configs to /home/apps/Free-V2ray-Collector
 2026-01-20 19:30:24,519 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+Groups saved in 'Config_by_country' folder. 99 files, 15487 lines total.
+Pushed to origin/main.
+2026-01-20 21:00:30,668 [INFO] collector: It went sleep
+2026-01-20 21:00:30,669 [INFO] collector: Fetching: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2026-01-20 21:00:30,880 [WARNING] root: Request error for https://raw.githubusercontent.com/internet4jina/daily/main/studious ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2026-01-20 21:00:30,880 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2026-01-20 21:00:30,880 [INFO] collector: Fetching: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0120.txt
+2026-01-20 21:00:31,053 [INFO] collector: Fetching: https://proxypool.link/sip002/sub
+2026-01-20 21:00:31,906 [INFO] collector: Fetching: https://proxypool.link/ss/sub
+2026-01-20 21:00:32,189 [INFO] collector: Fetching: https://proxypool.link/vmess/sub
+2026-01-20 21:00:32,436 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt
+2026-01-20 21:00:32,571 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt
+2026-01-20 21:00:32,698 [INFO] collector: Fetching: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+2026-01-20 21:00:32,818 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2026-01-20 21:00:32,936 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-01-20 21:00:33,056 [WARNING] root: Request error for https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-01-20 21:00:33,056 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-01-20 21:00:33,056 [INFO] collector: Fetching: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+2026-01-20 21:00:33,201 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
+2026-01-20 21:00:33,357 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
+2026-01-20 21:00:33,501 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
+2026-01-20 21:00:33,667 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
+2026-01-20 21:00:33,814 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
+2026-01-20 21:00:33,967 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
+2026-01-20 21:00:34,122 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
+2026-01-20 21:00:34,267 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
+2026-01-20 21:00:34,409 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2026-01-20 21:00:34,425 [INFO] collector: Fetching: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+2026-01-20 21:00:34,441 [INFO] collector: Fetching: https://raw.githubusercontent.com/freefq/free/master/v2
+2026-01-20 21:00:34,564 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-01-20 21:00:34,580 [WARNING] root: Request error for https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-01-20 21:00:34,580 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-01-20 21:00:34,580 [INFO] collector: Fetching: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt
+2026-01-20 21:00:34,835 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=1
+2026-01-20 21:00:34,978 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=1 ➜ 500 Server Error: Internal Server Error for url: https://v2.alicivil.workers.dev/?list=1
+2026-01-20 21:00:34,978 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=1
+2026-01-20 21:00:34,978 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=2
+2026-01-20 21:00:34,996 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=2 ➜ 500 Server Error: Internal Server Error for url: https://v2.alicivil.workers.dev/?list=2
+2026-01-20 21:00:34,996 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=2
+2026-01-20 21:00:34,996 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=3
+2026-01-20 21:00:35,014 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=3 ➜ 500 Server Error: Internal Server Error for url: https://v2.alicivil.workers.dev/?list=3
+2026-01-20 21:00:35,014 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=3
+2026-01-20 21:00:35,014 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=4
+2026-01-20 21:00:35,032 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=4 ➜ 500 Server Error: Internal Server Error for url: https://v2.alicivil.workers.dev/?list=4
+2026-01-20 21:00:35,032 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=4
+2026-01-20 21:00:35,032 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=5
+2026-01-20 21:00:35,050 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=5 ➜ 500 Server Error: Internal Server Error for url: https://v2.alicivil.workers.dev/?list=5
+2026-01-20 21:00:35,050 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=5
+2026-01-20 21:00:35,050 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=6
+2026-01-20 21:00:35,068 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=6 ➜ 500 Server Error: Internal Server Error for url: https://v2.alicivil.workers.dev/?list=6
+2026-01-20 21:00:35,068 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=6
+2026-01-20 21:00:35,068 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=8
+2026-01-20 21:00:35,086 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=8 ➜ 500 Server Error: Internal Server Error for url: https://v2.alicivil.workers.dev/?list=8
+2026-01-20 21:00:35,086 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=8
+2026-01-20 21:00:35,086 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=7
+2026-01-20 21:00:35,104 [WARNING] root: Request error for https://v2.alicivil.workers.dev/?list=7 ➜ 500 Server Error: Internal Server Error for url: https://v2.alicivil.workers.dev/?list=7
+2026-01-20 21:00:35,104 [WARNING] collector: Failed to fetch https://v2.alicivil.workers.dev/?list=7
+2026-01-20 21:00:35,104 [INFO] collector: Decoded 22 configs from 32 links
+2026-01-20 21:00:37,351 [INFO] save_config: Saving 34 configs to /home/apps/Free-V2ray-Collector
+2026-01-20 21:00:37,368 [INFO] save_config: Saved All_Configs_Sub.txt successfully
+Renaming configs:   0%|          | 0/52379 [00:00<?, ?cfg/s]Renaming configs:  52%|█████▏    | 27133/52379 [00:00<00:00, 271325.73cfg/s]Renaming configs: 100%|██████████| 52379/52379 [00:00<00:00, 190058.24cfg/s]
+Sorting by protocol:   0%|          | 0/15352 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 15352/15352 [00:00<00:00, 1525237.58cfg/s]
+2026-01-20 21:00:44,634 [INFO] save_config: Saving 3530750 configs to /home/apps/Free-V2ray-Collector
+2026-01-20 21:00:44,858 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
