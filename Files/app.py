@@ -185,6 +185,7 @@ def main():
         'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt',
         'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt',
         'https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt',
+        'https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt',
         ]
 
     decoded_links = decode_links(links)
