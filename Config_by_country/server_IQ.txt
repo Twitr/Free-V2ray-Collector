@@ -1,1 +1,1 @@
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@nlcdn5.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn5.suio.me&allowInsecure=1#@Twitro🤍 🇮🇶
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@nlcdn5.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn5.suio.me&allowInsecure=1#@Twitro💙 🇮🇶
