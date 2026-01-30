@@ -1,15 +1,16 @@
-vless://32663838-6132-4561-b532-653431613036@ok.1eta.site:80?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@Twitro💙 Jakarta 🇮🇩
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none #@Twitro💛 Jakarta 🇮🇩
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Twitro🧡 Jakarta 🇮🇩
-vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#@Twitro🧡
-vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?encryption=none&security=none&type=ws&host=id2.v2vless.xyz&path=🔒 [By EbraSha] #@Twitro🤍 🇮🇩
-vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInBzIjoiQFR3aXRyb/CfkpogSmFrYXJ0YSDwn4eu8J+HqSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwiYWlkIjowLCJob3N0IjoiZXhhLm5leHR2cG4uY2MiLCJpZCI6IjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SmiDwn4eu8J+HqSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://idc117okt@103.226.139.201:443?security=tls#@Twitro💜 🇮🇩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990 #@Twitro💙 Jakarta 🇮🇩
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow= #@Twitro💙 Jakarta 🇮🇩
-vless://32663838-6132-4561-b532-653431613036@70.153.188.116:80?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@Twitro🧡 Jakarta 🇮🇩
-trojan://idc117okt@103.176.78.153:443?security=tls#@Twitro🤍 🇮🇩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990 #@Twitro💚 Jakarta 🇮🇩
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=&encryption=none&headerType=none&type=tcp #@Twitro💚 Jakarta 🇮🇩
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Twitro💚 Medan 🇮🇩
-vmess://eyJhZGQiOiJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwiYWlkIjowLCJob3N0IjoiZXhhLm5leHR2cG4uY2MiLCJpZCI6IjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SmyDwn4eu8J+HqSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-trojan://idc117okt@103.226.139.201:443?security=tls#@Twitro🧡 🇮🇩
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfpI0g8J+HrvCfh6kiLCJhZGQiOiIxMjIuMjQ4LjMyLjg2IiwicG9ydCI6IjIxOTM2IiwiaWQiOiIzYzcxOTI3NS0yZTE0LTQ5MDktOGIwYi0wNWMyZTEyYzVlNzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
+vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInBzIjoiQFR3aXRyb/CfkpogSmFrYXJ0YSDwn4eu8J+HqSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=&encryption=none&headerType=none&type=tcp #@Twitro🤍 Jakarta 🇮🇩
+trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Twitro🧡 Medan 🇮🇩
+vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#@Twitro❤️
+trojan://idc117okt@103.176.78.153:443?security=tls#@Twitro💜 🇮🇩
+vless://32663838-6132-4561-b532-653431613036@70.153.185.8:80?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@Twitro💚 Jakarta 🇮🇩
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfp6Eg8J+HrvCfh6kiLCJhZGQiOiIxMjIuMjQ4LjMyLjg2IiwicG9ydCI6IjIxOTM2IiwiaWQiOiIzYzcxOTI3NS0yZTE0LTQ5MDktOGIwYi0wNWMyZTEyYzVlNzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Twitro🖤 Jakarta 🇮🇩
+vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none #@Twitro🖤 Jakarta 🇮🇩
+vless://32663838-6132-4561-b532-653431613036@ok.1eta.site:80?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@Twitro💛 Jakarta 🇮🇩
+vless://32663838-6132-4561-b532-653431613036@70.153.188.116:80?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@Twitro💛 Jakarta 🇮🇩
+vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?encryption=none&security=none&type=ws&host=id2.v2vless.xyz&path=🔒 [By EbraSha] #@Twitro💚 🇮🇩
