@@ -1,2 +1,2 @@
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@93.94.51.6:443?security=tls&encryption=none&sni=decdn3.suio.me&type=tcp&path=/#@Twitro🤍 🇮🇶
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@81.90.29.19:443?type=tcp&encryption=none&security=tls&sni=nlcdn5.suio.me&allowInsecure=1#@Twitro💙 🇮🇶
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@93.94.51.6:443?security=tls&encryption=none&sni=decdn3.suio.me&type=tcp&path=/#@Twitro💜 🇮🇶
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@81.90.29.19:443?type=tcp&encryption=none&security=tls&sni=nlcdn5.suio.me&allowInsecure=1#@Twitro💜 🇮🇶
