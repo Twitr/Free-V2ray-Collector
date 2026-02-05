@@ -1,1 +1,1 @@
-vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@93.94.51.6:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn3.suio.me&allowInsecure=1&fp=chrome#@Twitro❤️ 🇮🇶
+vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@93.94.51.6:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn3.suio.me&allowInsecure=1&fp=chrome#@Twitro💚 🇮🇶
