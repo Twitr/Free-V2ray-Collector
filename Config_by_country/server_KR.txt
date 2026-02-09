@@ -1,100 +1,101 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.48.212:443#@Twitro🖤 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.101.190:443 #@Twitro🖤 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.29.156:443 #@Twitro💜 Incheon 🇰🇷
-trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#@Twitro💜 Chuncheon 🇰🇷
-trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#@Twitro🧡 Seoul 🇰🇷
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfkpog8J+HsPCfh7ciLCJhZGQiOiI0OS4xMjguMjE5Ljc1IiwicG9ydCI6IjUyODM4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6Ijc3YmMxMGUxLTY1YjAtNDQzYy04YTZkLWUwYTA4NTA2ZTA1NiJ9
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.203.202.120:12226/?type=ws&encryption=none #@Twitro🤎 Tangjin 🇰🇷
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#@Twitro🤎 Chuncheon 🇰🇷
-vless://62357561-a129-4b9e-9614-ce2578020866@175.205.113.47:50000/?type=ws&encryption=none&host=edg.comorg.us.kg&path=🔒 [By EbraSha] #@Twitro💛 Cheongju-si 🇰🇷
-vmess://eyJhZGQiOiJmdWxsYWNjZXNzdG9rb3JlYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCIsImFpZCI6MCwiaG9zdCI6ImZ1bGxhY2Nlc3N0b2tvcmVhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0IiwiaWQiOiIyNzRmMTFjNi1mNjliLTQwYjktODk2Ni1mMzllMDZlOTdiZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/Cfp6EgQnVzYW4g8J+HsPCfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJmdWxsYWNjZXNzdG9rb3JlYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCJ9
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.5:9555 #@Twitro💙 Gwanak-gu 🇰🇷
-vmess://eyJhZGQiOiIyNy4xMjQuOC4xNDEiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiJjN2U2NDViZS0xNzA0LTRmMGEtYWZlOS04YjIxZjljNzExZDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8yMjAxMjgwNzExMDAiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfpI4gR2V1bWNoZW9uLWd1IPCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.42.149:443 #@Twitro💛 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.41:443 #@Twitro🤎 Incheon 🇰🇷
-vmess://eyJhZGQiOiIyMDMuMjI3LjYyLjE0MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiN2VjMGNmZWUtMDdkMy00NzlhLThjZTUtZDVlMDgzYzJlNGY3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0NjMwLCJwcyI6IkBUd2l0cm/wn5KbIPCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.220.232:989 #@Twitro🧡 Seoul 🇰🇷
-trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#@Twitro💛 Chuncheon 🇰🇷
-trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#@Twitro🤎 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.209.80.72:443 #@Twitro🤍 Incheon 🇰🇷
-vmess://eyJhZGQiOiI2MS4xMTEuMjQ0LjUxIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmZmY2MGYwMC1kOWM4LTRmZjctOTU2NC1kNDQ3MjA5NzQ3M2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NjExNTUsInBzIjoiQFR3aXRyb/Cfkpkg8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#@Twitro🤎 Chuncheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@158.247.213.230:989 #@Twitro🤍 Seoul 🇰🇷
-vmess://eyJhZGQiOiIxMzAuMTYyLjE0MS4xMDQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjYwOTNlZWZiLTdhYjYtNDFkZi1hYmEwLWQ1ZmE1ODE0N2UxMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yZWZmczd5MjZnMHVhIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn5KbIFNlb3VsIPCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098 #@Twitro💚 Gwanak-gu 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.47.102:443 #@Twitro🖤 Incheon 🇰🇷
-trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#@Twitro💛 Seoul 🇰🇷
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#@Twitro💙 Seongnam-si 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.245.35:443#@Twitro💚 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.30:443#@Twitro🤍 Incheon 🇰🇷
-vmess://eyJhZGQiOiIxNDYuNTYuNDAuMTE3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwNTNjYTBmNC0wNTdlLTQ5M2QtYWQzMC01YmE1MWYwMGY1OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Mjc2NzUsInBzIjoiQFR3aXRyb/CfkpsgU2VvdWwg8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@kr.fastsoonlink.com:40032 #@Twitro❤️ 🇰🇷
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro🖤 Incheon 🇰🇷
-trojan://xxoo@3.34.6.217:443?security=tls#@Twitro🤎 Incheon 🇰🇷
+vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsInYiOiIyIiwicHMiOiJAVHdpdHJv8J+SnCBTZW91bCDwn4ew8J+HtyIsInBvcnQiOjQ0MywiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==
+trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp #@Twitro❤️ Chuncheon 🇰🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@54.180.238.255:9898 #@Twitro🧡 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989 #@Twitro🤍 🇰🇷
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#@Twitro🧡 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.47.102:443#@Twitro💜 Incheon 🇰🇷
 ss://YWVzLTI1Ni1nY206OGYzYTgzNWMtOGE0NS00ODBkLWFlMzUtMWRlYjJjNTJkY2Fl@cgroup.node2.s2.nodelist-airport.com:33152 #@Twitro❤️ Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#@Twitro🖤 Gwangmyeong 🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.5:2003 #@Twitro💚 Gwanak-gu 🇰🇷
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@211.34.164.17:50005/?type=ws&encryption=none&host=ngedp.ambercc.filegear-sg.me #@Twitro🧡 Ansan-si 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.56.52:443#@Twitro💜 Incheon 🇰🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990 #@Twitro🧡 Seoul 🇰🇷
-trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr4.microsoft-orgwly.vip:443?allowInsecure=1 #@Twitro💚 Incheon 🇰🇷
-vmess://eyJhZGQiOiIxNTIuNzAuMjUyLjIxOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmI5MWUxZDctNDQwZS00NDcwLWIwYTAtYTc5MWU1YzMyZGM4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjEwMDIwLCJwcyI6IkBUd2l0cm/inaTvuI8gU2VvdWwg8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiIxNTguMTgwLjkxLjIwNiIsImFpZCI6MCwiaG9zdCI6ImtyLmh1YWZlaTg4OC5zaXRlIiwiaWQiOiJmOTliZmUwNS1lMzUxLTQ3ZGYtZTc1Mi1hYzBhYWVhOTc2ZGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDYyNzEsInBzIjoiQFR3aXRyb+KdpO+4jyBDaHVuY2hlb24g8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p110.panda001.net:54345#@Twitro💛 Seoul 🇰🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@54.180.238.255:9898 #@Twitro🤎 Incheon 🇰🇷
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro💛 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.55.91:443 #@Twitro🧡 Incheon 🇰🇷
-vmess://eyJhZGQiOiI1NC4xODAuOTYuNjciLCJhaWQiOjEsImhvc3QiOiI1NC4xODAuOTYuNjciLCJpZCI6ImFlNzQ4NmY5LWQ3YjctNGYyNi05N2EwLWRjNWIwOTNkZmE4OSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4ODg4LCJwcyI6IkBUd2l0cm/wn6SNIEluY2hlb24g8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiI2MS4xMTEuMjQ0LjEzMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWE5ZTQ3MDAtNGE0NS00YzYyLThjNDEtZTcxOTIxMTRhYTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIzMzQ3LCJwcyI6IkBUd2l0cm/wn6SOIPCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.7.243:443 #@Twitro💛 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw@43.202.49.222:2333 #@Twitro💜 Incheon 🇰🇷
-trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr3.microsoft-orgwly.vip:443?allowInsecure=1 #@Twitro🖤 Incheon 🇰🇷
-vmess://eyJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoidHRhc2ZzZ3dyLjc2ODk4MTAyLnh5eiIsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J2ZGZ5dWV1c2YiLCJwb3J0IjoxMTgyNywicHMiOiJAVHdpdHJv8J+kjSBTZW91bCDwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@61.81.13.82:50000/?type=ws&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&path=🔒 [By EbraSha] #@Twitro💙 Jung-gu 🇰🇷
-vmess://eyJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDIuemdqb2suY29tIiwiaWQiOiIxYTFlNTE5Ni1lYWI0LTQ3NzItOTAxMi02NWMyN2YxOWE1MjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn5KcIFNlb3VsIPCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoic2VvdWwwMi56Z2pvay5jb20ifQ==
-trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls#@Twitro💙 Chuncheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.98.5:443 #@Twitro🤎 🇰🇷
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@193.122.115.67:4434/?type=ws&encryption=none #@Twitro💙 Seoul 🇰🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46576#@Twitro🧡 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.124.161:443#@Twitro🖤 🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652 #@Twitro🤎 Gwangmyeong 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.61.124:443 #@Twitro💜 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.57.66:443#@Twitro💚 Incheon 🇰🇷
-vmess://eyJhZGQiOiI1Mi43OC4yMTMuMjI0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2ZjQ0MjgyMy02YjczLTRiMzEtZjFmNS1hYTFlOTA3YjA1MWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQFR3aXRyb/CfkpkgSW5jaGVvbiDwn4ew8J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.59.8:443 #@Twitro🤎 Incheon 🇰🇷
-trojan://71354f48-e8c8-4c4c-a967-47d7ac5e953c@129.154.219.39:443?security=tls&allowInsecure=1&type=tcp #@Twitro🧡 Seoul 🇰🇷
-vmess://eyJhZGQiOiIxNTIuNzAuOTIuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SnCBTZW91bCDwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMzEuMTg2LjI0LjEwMyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNjA5M2VlZmItN2FiNi00MWRmLWFiYTAtZDVmYTU4MTQ3ZTEwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JlZmZzN3kyNmcwdWEiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CflqQgU2VvdWwg8J+HsPCfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI1ZTk0ODBhLWI3YWEtNDBhNC1mOWE3LTUyOTliNWUzNjNiNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAVHdpdHJv8J+kjSBDaHVuY2hlb24g8J+HsPCfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTAuMjMwLjI0OS4xNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDUzMGI1ZWUtY2VkNC00ZTY0LTkyODUtMTg2N2ZjNWRmN2Y4IiwibmV0IjoiaHR0cCIsInBhdGgiOiIiLCJwb3J0Ijo0Njg0MiwicHMiOiJAVHdpdHJv8J+SnCBDaHVuY2hlb24g8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn6ehIFNlb3VsIPCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoic2VvdWwwMy56Z2pvay5jb20ifQ==
-vmess://eyJhZGQiOiI1NC4xODAuMTE0Ljc3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiNWI1MjA5Zi1iY2JkLTRiYWMtYjA0NC0wZDE3OTY5OGM2MmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDI1MTcsInBzIjoiQFR3aXRyb/CfpI0gSW5jaGVvbiDwn4ew8J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#@Twitro🖤 Seoul 🇰🇷
-vless://69872d60-7cc2-c421-47ea-e2733c39bab0@3.34.45.78:12345?path=/socks5=6226604a:9ca2df1bf22a@38.57.76.31:33375&security=tls&alpn=h3&encryption=none&insecure=0&host=afa61101.soos.bbroot.com&fp=random&type=ws&allowInsecure=0&sni=afa61101.soos.bbroot.com#@Twitro💛 Incheon 🇰🇷
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@152.70.245.66:12693/?type=ws&encryption=none&host=ngedp.ambercc.filegear-sg.me #@Twitro💛 Seoul 🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:25879#@Twitro🤎 Seoul 🇰🇷
-vmess://eyJhZGQiOiIxMy4xMjUuMjQuMTEyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiNWI1MjA5Zi1iY2JkLTRiYWMtYjA0NC0wZDE3OTY5OGM2MmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDI1MTcsInBzIjoiQFR3aXRyb/Cfkpog8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@south-korea-2.keenvpn.me:443 #@Twitro🤍 Seoul 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.108.109:443#@Twitro🤍 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.201.169.70:54345 #@Twitro🖤 Seoul 🇰🇷
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp #@Twitro🧡 Chuncheon 🇰🇷
-vmess://eyJhZGQiOiJrci1hcm0yLjAxODk5OS54eXoiLCJhaWQiOjAsImhvc3QiOiJrci1hcm0yLjAxODk5OS54eXoiLCJpZCI6ImU5OGZjMWEwLTljNTItNDA5MS05MWE1LWMxNTliMGFhMjc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9lOThmYzFhMC05YzUyLTQwOTEtOTFhNS1jMTU5YjBhYTI3NGUiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfpI4gU2VvdWwg8J+HsPCfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#@Twitro💛 🇰🇷
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.39.146:6697#@Twitro💜 Seoul 🇰🇷
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfkpwgQ2h1bmNoZW9uIPCfh7Dwn4e3IiwiYWRkIjoiMTUyLjY5LjIzMC4xNzAiLCJwb3J0IjoiODAiLCJpZCI6IjZhYTI0ZGVkLTVmMTUtNDhjNy04Y2JhLTNlMmExNTlkNmI3NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989 #@Twitro💚 🇰🇷
+vmess://eyJhZGQiOiJrci1hcm0yLjAxODk5OS54eXoiLCJhaWQiOjAsImhvc3QiOiJrci1hcm0yLjAxODk5OS54eXoiLCJpZCI6ImU5OGZjMWEwLTljNTItNDA5MS05MWE1LWMxNTliMGFhMjc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9lOThmYzFhMC05YzUyLTQwOTEtOTFhNS1jMTU5YjBhYTI3NGUiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfkpwgU2VvdWwg8J+HsPCfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#@Twitro💙 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.209.80.72:443 #@Twitro🧡 Incheon 🇰🇷
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro🤍 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.30:443#@Twitro🤍 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.201.169.70:54345 #@Twitro💚 Seoul 🇰🇷
+vless://62357561-a129-4b9e-9614-ce2578020866@175.205.113.47:50000/?type=ws&encryption=none&host=edg.comorg.us.kg&path=🔒 [By EbraSha] #@Twitro❤️ Cheongju-si 🇰🇷
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/CfpI0g8J+HsPCfh7ciLCJhZGQiOiI0OS4xMjguMjE5Ljc1IiwicG9ydCI6IjUyODM4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6Ijc3YmMxMGUxLTY1YjAtNDQzYy04YTZkLWUwYTA4NTA2ZTA1NiJ9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989 #@Twitro💚 Seoul 🇰🇷
+vmess://eyJhZGQiOiIxMy4xMjUuMjQuMTEyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiNWI1MjA5Zi1iY2JkLTRiYWMtYjA0NC0wZDE3OTY5OGM2MmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDI1MTcsInBzIjoiQFR3aXRyb/Cfkpsg8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.108.109:443 #@Twitro💛 Incheon 🇰🇷
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls#@Twitro🧡 Chuncheon 🇰🇷
+vmess://eyJhZGQiOiIxNTguMTgwLjkxLjIwNiIsImFpZCI6MCwiaG9zdCI6ImtyLmh1YWZlaTg4OC5zaXRlIiwiaWQiOiJmOTliZmUwNS1lMzUxLTQ3ZGYtZTc1Mi1hYzBhYWVhOTc2ZGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDYyNzEsInBzIjoiQFR3aXRyb/CfpI0gQ2h1bmNoZW9uIPCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.42.149:443 #@Twitro💛 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.48.212:443#@Twitro🖤 Incheon 🇰🇷
+trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#@Twitro🧡 Chuncheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.57.87:443 #@Twitro💚 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.116.22:443 #@Twitro🖤 Incheon 🇰🇷
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls#@Twitro💙 Seongnam-si 🇰🇷
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.56.41.215:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #@Twitro💜 Seoul 🇰🇷
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989 #@Twitro🧡 Seoul 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.118.190:443#@Twitro🧡 Incheon 🇰🇷
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#@Twitro💛 Seoul 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.139.224:443 #@Twitro💛 Incheon 🇰🇷
-vmess://eyJhZGQiOiI0NS4xNDEuMTM5LjEwOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNjc1MmUyYzQtZmY3Yy00ZGE1LWE4MTUtYzMwN2JmODNhYjQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjEzMzExLCJwcyI6IkBUd2l0cm/wn5KbIEdpbXBvLXNpIPCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-trojan://a1718180-d616-4b71-9bb6-3e96ba20f921@140.238.12.83:443?security=tls&allowInsecure=1&type=tcp #@Twitro🤍 Seoul 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.116.22:443 #@Twitro💙 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.247:4469#@Twitro🖤 Seoul 🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p222.panda001.net:15098 #@Twitro💜 Gwanak-gu 🇰🇷
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls#@Twitro🤍 Chuncheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.56.225:443 #@Twitro💚 Incheon 🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652 #@Twitro🤎 Gwangmyeong 🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.57.87:443 #@Twitro💛 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.57.66:443#@Twitro🤍 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.36.118.190:443 #@Twitro💙 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.247:4469#@Twitro🤍 Seoul 🇰🇷
+trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#@Twitro💚 🇰🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990 #@Twitro💜 Seoul 🇰🇷
+vmess://eyJhZGQiOiJtc2lhd2RmZ3ouNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoidHRhc2ZzZ3dyLjc2ODk4MTAyLnh5eiIsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J2ZGZ5dWV1c2YiLCJwb3J0IjoxMTgyNywicHMiOiJAVHdpdHJv8J+noSBTZW91bCDwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.7.243:443 #@Twitro💛 Incheon 🇰🇷
+vmess://eyJhZGQiOiI2MS4xMTEuMjQ0LjUxIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmZmY2MGYwMC1kOWM4LTRmZjctOTU2NC1kNDQ3MjA5NzQ3M2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NjExNTUsInBzIjoiQFR3aXRyb/Cfp6Eg8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw@43.202.49.222:2333 #@Twitro💜 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.59.8:443#@Twitro💙 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:25879#@Twitro💚 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.5:9555 #@Twitro❤️ Gwanak-gu 🇰🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#@Twitro🤎 🇰🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.220.232:989 #@Twitro💛 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652 #@Twitro💙 Gwangmyeong 🇰🇷
+trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls#@Twitro🤎 Chuncheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.124.161:443 #@Twitro💚 🇰🇷
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr4.microsoft-orgwly.vip:443?allowInsecure=1 #@Twitro🖤 Incheon 🇰🇷
+vmess://eyJhZGQiOiI0NS4xNDEuMTM5LjEwOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNjc1MmUyYzQtZmY3Yy00ZGE1LWE4MTUtYzMwN2JmODNhYjQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjEzMzExLCJwcyI6IkBUd2l0cm/wn5KZIEdpbXBvLXNpIPCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@south-korea-2.keenvpn.me:443 #@Twitro💙 Seoul 🇰🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@kr.fastsoonlink.com:40032 #@Twitro🤍 🇰🇷
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#@Twitro💙 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652 #@Twitro💛 Gwangmyeong 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p110.panda001.net:54345#@Twitro💛 Seoul 🇰🇷
+vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI1ZTk0ODBhLWI3YWEtNDBhNC1mOWE3LTUyOTliNWUzNjNiNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAVHdpdHJv8J+kjiBDaHVuY2hlb24g8J+HsPCfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+trojan://f3ccb94b-fc75-475a-80e1-b67913115462@kr3.microsoft-orgwly.vip:443?allowInsecure=1 #@Twitro💙 Incheon 🇰🇷
+vmess://eyJhZGQiOiI2MS4xMTEuMjQ0LjEzMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWE5ZTQ3MDAtNGE0NS00YzYyLThjNDEtZTcxOTIxMTRhYTE2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIzMzQ3LCJwcyI6IkBUd2l0cm/wn6ehIPCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfp6EgQ2h1bmNoZW9uIPCfh7Dwn4e3IiwiYWRkIjoiMTUyLjY5LjIzMC4xNzAiLCJwb3J0IjoiODAiLCJpZCI6IjZhYTI0ZGVkLTVmMTUtNDhjNy04Y2JhLTNlMmExNTlkNmI3NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiJ9
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.144.32:11202?security=tls&sni=a.ssll.gay&type=ws&path=/#@Twitro💚 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.139.224:443 #@Twitro🧡 Incheon 🇰🇷
+vmess://eyJhZGQiOiI1Mi43OC4yMTMuMjI0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2ZjQ0MjgyMy02YjczLTRiMzEtZjFmNS1hYTFlOTA3YjA1MWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQFR3aXRyb/CfpI0gSW5jaGVvbiDwn4ew8J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#@Twitro🧡 Seoul 🇰🇷
+vmess://eyJhZGQiOiI1NC4xODAuMTE0Ljc3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiNWI1MjA5Zi1iY2JkLTRiYWMtYjA0NC0wZDE3OTY5OGM2MmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDI1MTcsInBzIjoiQFR3aXRyb/CfpI4gSW5jaGVvbiDwn4ew8J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vmess://eyJhZGQiOiIxMzEuMTg2LjI0LjEwMyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNjA5M2VlZmItN2FiNi00MWRmLWFiYTAtZDVmYTU4MTQ3ZTEwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JlZmZzN3kyNmcwdWEiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfkpwgU2VvdWwg8J+HsPCfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.203.202.120:12226/?type=ws&encryption=none #@Twitro💚 Tangjin 🇰🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.56.41.215:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #@Twitro🤍 Seoul 🇰🇷
+vmess://eyJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDIuemdqb2suY29tIiwiaWQiOiIxYTFlNTE5Ni1lYWI0LTQ3NzItOTAxMi02NWMyN2YxOWE1MjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn5KbIFNlb3VsIPCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoic2VvdWwwMi56Z2pvay5jb20ifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.56.225:443 #@Twitro💛 Incheon 🇰🇷
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@193.122.115.67:4434/?type=ws&encryption=none #@Twitro💙 Seoul 🇰🇷
+trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#@Twitro🧡 Seoul 🇰🇷
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#@Twitro💙 Seongnam-si 🇰🇷
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@152.70.245.66:12693/?type=ws&encryption=none&host=ngedp.ambercc.filegear-sg.me #@Twitro🖤 Seoul 🇰🇷
+trojan://71354f48-e8c8-4c4c-a967-47d7ac5e953c@129.154.219.39:443?security=tls&allowInsecure=1&type=tcp #@Twitro🧡 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p222.panda001.net:15098 #@Twitro🤍 Gwanak-gu 🇰🇷
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@61.81.13.82:50000/?type=ws&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&path=🔒 [By EbraSha] #@Twitro💙 Jung-gu 🇰🇷
+vless://69872d60-7cc2-c421-47ea-e2733c39bab0@3.34.45.78:12345?path=/socks5=6226604a:9ca2df1bf22a@38.57.76.31:33375&security=tls&alpn=h3&encryption=none&insecure=0&host=afa61101.soos.bbroot.com&fp=random&type=ws&allowInsecure=0&sni=afa61101.soos.bbroot.com#@Twitro💛 Incheon 🇰🇷
+vmess://eyJhZGQiOiIxNTIuNzAuMjUyLjIxOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmI5MWUxZDctNDQwZS00NDcwLWIwYTAtYTc5MWU1YzMyZGM4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjEwMDIwLCJwcyI6IkBUd2l0cm/wn5KZIFNlb3VsIPCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.101.190:443 #@Twitro🤎 Incheon 🇰🇷
+vmess://eyJhZGQiOiIxNTIuNzAuOTIuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SmiBTZW91bCDwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.245.35:443#@Twitro🧡 Incheon 🇰🇷
+vmess://eyJhZGQiOiIxNDYuNTYuNDAuMTE3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwNTNjYTBmNC0wNTdlLTQ5M2QtYWQzMC01YmE1MWYwMGY1OWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Mjc2NzUsInBzIjoiQFR3aXRyb/CfpI0gU2VvdWwg8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.56.52:443#@Twitro🤎 Incheon 🇰🇷
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@211.34.164.17:50005/?type=ws&encryption=none&host=ngedp.ambercc.filegear-sg.me #@Twitro💛 Ansan-si 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#@Twitro🧡 Gwangmyeong 🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.5:2003 #@Twitro💛 Gwanak-gu 🇰🇷
+vmess://eyJhZGQiOiIxMzAuMTYyLjE0MS4xMDQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjYwOTNlZWZiLTdhYjYtNDFkZi1hYmEwLWQ1ZmE1ODE0N2UxMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yZWZmczd5MjZnMHVhIiwicG9ydCI6NDQzLCJwcyI6IkBUd2l0cm/wn5akIFNlb3VsIPCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098 #@Twitro🤍 Gwanak-gu 🇰🇷
+trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#@Twitro💙 Chuncheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.55.91:443 #@Twitro💛 Incheon 🇰🇷
+vmess://eyJhZGQiOiJmdWxsYWNjZXNzdG9rb3JlYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCIsImFpZCI6MCwiaG9zdCI6ImZ1bGxhY2Nlc3N0b2tvcmVhbm5ldHN1Ym5vZGUxLmF6dXJld2Vic2l0ZXMubmV0IiwiaWQiOiIyNzRmMTFjNi1mNjliLTQwYjktODk2Ni1mMzllMDZlOTdiZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfpI0gQnVzYW4g8J+HsPCfh7ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJmdWxsYWNjZXNzdG9rb3JlYW5uZXRzdWJub2RlMS5henVyZXdlYnNpdGVzLm5ldCJ9
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=f5 #@Twitro🤎 Incheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@158.247.213.230:989 #@Twitro🧡 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.98.5:443 #@Twitro🖤 🇰🇷
+vmess://eyJhZGQiOiIxNTAuMjMwLjI0OS4xNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDUzMGI1ZWUtY2VkNC00ZTY0LTkyODUtMTg2N2ZjNWRmN2Y4IiwibmV0IjoiaHR0cCIsInBhdGgiOiIiLCJwb3J0Ijo0Njg0MiwicHMiOiJAVHdpdHJv8J+WpCBDaHVuY2hlb24g8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://xxoo@3.34.6.217:443?security=tls#@Twitro🧡 Incheon 🇰🇷
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.39.146:6697#@Twitro🤍 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.29.156:443 #@Twitro💙 Incheon 🇰🇷
+vmess://eyJhZGQiOiI1NC4xODAuOTYuNjciLCJhaWQiOjEsImhvc3QiOiI1NC4xODAuOTYuNjciLCJpZCI6ImFlNzQ4NmY5LWQ3YjctNGYyNi05N2EwLWRjNWIwOTNkZmE4OSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4ODg4LCJwcyI6IkBUd2l0cm/wn6ehIEluY2hlb24g8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiIyNy4xMjQuOC4xNDEiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiJjN2U2NDViZS0xNzA0LTRmMGEtYWZlOS04YjIxZjljNzExZDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8yMjAxMjgwNzExMDAiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfkpogR2V1bWNoZW9uLWd1IPCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://a1718180-d616-4b71-9bb6-3e96ba20f921@140.238.12.83:443?security=tls&allowInsecure=1&type=tcp #@Twitro💙 Seoul 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.86.41:443 #@Twitro🤎 Incheon 🇰🇷
+trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#@Twitro🖤 Chuncheon 🇰🇷
+trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#@Twitro🧡 Chuncheon 🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.61.124:443 #@Twitro💛 Incheon 🇰🇷
+vmess://eyJhZGQiOiIyMDMuMjI3LjYyLjE0MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiN2VjMGNmZWUtMDdkMy00NzlhLThjZTUtZDVlMDgzYzJlNGY3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0NjMwLCJwcyI6IkBUd2l0cm/inaTvuI8g8J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
