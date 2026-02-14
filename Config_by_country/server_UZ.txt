@@ -1,1 +1,3 @@
-vless://c110a9d5-9f71-4b06-8c42-4456b5ea9d1a@nl.vip-get.ru:443?security=reality&encryption=none&pbk=d4nrz5jZn6OcMGmRr4H-2v6hKexlwe4hKaDMgMqSV3A&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=cc196f6d752c02d2#@Xen2ray💜 Tashkent 🇺🇿
+vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=pimxpass.alex96336997.workers.dev&fp=chrome&type=ws&sni=🔒 [By EbraSha] 💙 #@Twitro🧡 Tashkent 🇺🇿
+vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:443?path=/?ed=2048&security=tls&encryption=none&host=pimxpass.alex96336997.workers.dev&fp=chrome&type=ws&sni=pimxpass.alex96336997.workers.dev#@Twitro💜 Tashkent 🇺🇿
+vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?path=/?ed=2048&security=&encryption=none&host=pimxpass.alex96336997.workers.dev&type=ws#@Twitro💚 Tashkent 🇺🇿
