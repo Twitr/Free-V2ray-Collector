@@ -1,1 +1,1 @@
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cdnjs.com:443?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=0&host=639057258114114299.civic-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] 🇺🇲 (ConfigV2RayNG) کانالمون #@Twitro🖤
+vless://8196d16d-855b-42bc-80f4-b5db138c5572@172.64.152.23:443?mode=auto&path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=🔒 [By EbraSha] - [🇺🇲]•11 #@Twitro🤍
