@@ -1,4 +1,2 @@
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443?security=reality&encryption=none&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=by.cdn.titun.su&sid=cad317b20db4aad2#@Twitro💚 🇧🇾
-ss://924a17e7-4e9d-4055-bf2e-6f8edfdee786@95.128.71.135:104?security=none&amp;type=tcp#@Twitro🖤 Minsk 🇧🇾
-vless://924a17e7-4e9d-4055-bf2e-6f8edfdee786@95.128.71.135:104?security=none&amp;type=tcp#@Twitro🤎 Minsk 🇧🇾
-ss://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443?security=reality&encryption=none&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=by.cdn.titun.su&sid=cad317b20db4aad2#@Twitro🖤 🇧🇾
+ss://924a17e7-4e9d-4055-bf2e-6f8edfdee786@95.128.71.135:104?security=none&amp;type=tcp#@Twitro💙 Minsk 🇧🇾
+vless://924a17e7-4e9d-4055-bf2e-6f8edfdee786@95.128.71.135:104?security=none&amp;type=tcp#@Twitro🖤 Minsk 🇧🇾
