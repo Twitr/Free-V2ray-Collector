@@ -1,10 +1,10 @@
-hysteria2://c7730b65-c3c7-44a6-b1be-9d72d36679d1@is.pddwdf.store:2374?insecure=1&sni=is.pddwdf.store&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Twitro💙
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #@Twitro💜 Hafnarfjordur 🇮🇸
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#@Twitro💚 Reykjavik 🇮🇸
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#@Twitro💙 Hafnarfjordur 🇮🇸
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru#@Twitro💙 Reykjavik 🇮🇸
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989 #@Twitro💛 Hafnarfjordur 🇮🇸
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#@Twitro💜 Reykjavik 🇮🇸
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@Twitro💙 Reykjavik 🇮🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg%3D%3D@89.221.224.94:1443 #@Twitro💛 Reykjavik 🇮🇸
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#@Twitro💜 Hafnarfjordur 🇮🇸
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #@Twitro💚 Hafnarfjordur 🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#@Twitro💚 Reykjavik 🇮🇸
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989 #@Twitro💙 Hafnarfjordur 🇮🇸
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@Twitro💜 Reykjavik 🇮🇸
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#@Twitro💜 Reykjavik 🇮🇸
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru#@Twitro💜 Reykjavik 🇮🇸
+hysteria2://c7730b65-c3c7-44a6-b1be-9d72d36679d1@is.pddwdf.store:2374?insecure=1&sni=is.pddwdf.store&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#@Twitro🤍
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#@Twitro🧡 Reykjavik 🇮🇸
