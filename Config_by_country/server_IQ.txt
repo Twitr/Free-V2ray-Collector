@@ -1,4 +1,4 @@
-trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&sni=aws.amazon.com&fp=chrome&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sid=1abe0c286879#@Twitro💚 🇮🇶
-vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=deu549.worldbypass.org&allowInsecure=1#@Twitro💙 🇮🇶
-vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@nlcdn5.suio.me:443?type=tcp&security=tls&fp=&sni=nlcdn5.suio.me&path=&host=#@Twitro❤️ 🇮🇶
-vless://cc9f7840-757a-430b-bddc-a73478bea434@178.17.58.10:8443/?type=grpc&encryption=none&flow=&serviceName=grpc-vless&security=tls&sni=deu469.unboundworld.org&alpn=h2&allowInsecure=1#@Twitro🧡 🇮🇶
+trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&sni=aws.amazon.com&fp=chrome&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sid=1abe0c286879#@Twitro💜 🇮🇶
+vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@nlcdn5.suio.me:443?type=tcp&security=tls&fp=&sni=nlcdn5.suio.me&path=&host=#@Twitro🖤 🇮🇶
+vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#@Twitro💜 🇮🇶
+vless://cc9f7840-757a-430b-bddc-a73478bea434@178.17.58.17:8443/?type=grpc&encryption=none&flow=&serviceName=grpc-vless&security=tls&sni=deu469.unboundworld.org&alpn=h2&allowInsecure=1#@Twitro💙 🇮🇶
