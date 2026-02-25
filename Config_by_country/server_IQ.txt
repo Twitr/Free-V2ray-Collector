@@ -1,4 +1,5 @@
-vless://cc9f7840-757a-430b-bddc-a73478bea434@178.17.58.17:8443/?type=grpc&encryption=none&flow=&serviceName=grpc-vless&security=tls&sni=deu469.unboundworld.org&alpn=h2&allowInsecure=1#@Twitro💙 🇮🇶
+vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#@Twitro🤍 🇮🇶
 vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:443?allowInsecure=0&sni=www.t3n.de&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#@Twitro💜 🇮🇶
-trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&authority=&fp=chrome&type=grpc&serviceName=&sni=aws.amazon.com#@Twitro🤎 🇮🇶
-vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=deu549.worldbypass.org&allowInsecure=1#@Twitro💜 🇮🇶
+trojan://QXVp6pjpc-p1hPfaNs0JxfgABqh8CYZa@sw.pryanik.net.ru:5443?security=reality&sni=sun6-21.userapi.com&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&spx=/&type=tcp#@Twitro🖤 🇮🇶
+trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&authority=&fp=chrome&type=grpc&serviceName=&sni=aws.amazon.com#@Twitro💙 🇮🇶
+vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?&security=tls&fp=chrome&sni=deu469.unboundworld.org&type=grpc&serviceName=&mode=gun#@Twitro🖤 🇮🇶
