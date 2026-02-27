@@ -1,4 +1,4 @@
-vmess://eyJhZGQiOiI0NS4xOTYuMjM5LjE0MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDFhOGQ5ZDQtMDNlZi00YWM3LWRjNGYtM2NlYTRlMWNiNDdiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjUzODYxLCJwcyI6IkBUd2l0cm/inaTvuI8g8J+HsvCfh7oiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.239.156:443/?plugin=v2ray-plugin;mode=websocket;path=üîí [By EbraSha] [By EbraSha] #@Twitro🤍 🇲🇺
+vmess://eyJhZGQiOiI0NS4xOTYuMjM5LjE0MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDFhOGQ5ZDQtMDNlZi00YWM3LWRjNGYtM2NlYTRlMWNiNDdiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjUzODYxLCJwcyI6IkBUd2l0cm/wn5KaIPCfh7Lwn4e6IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vless://8e62fdd4-006d-4920-aef8-f3c87ed60157@CF12.FASTSPEEDS.IR:8443?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=fn1.roshdadcollection.ir#@Twitro🤎 🇲🇺
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.239.151:443/?plugin=v2ray-plugin;mode=websocket;path=üîí [By EbraSha] [By EbraSha] #@Twitro💛 🇲🇺
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.239.151:443/?plugin=v2ray-plugin;mode=websocket;path=🔒 [By EbraSha] [By EbraSha] #@Twitro💜 🇲🇺
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.239.156:443/?plugin=v2ray-plugin;mode=websocket;path=🔒 [By EbraSha] [By EbraSha] #@Twitro💚 🇲🇺
