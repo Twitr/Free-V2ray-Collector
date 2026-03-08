@@ -1,2 +1,2 @@
-vless://32a701d3-ba18-40e1-b169-2acb59b7e3fd@turkey.v2shop2.xyz:41661?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp #@Twitro💙 🇬🇪
-vless://0815223d-7855-42b0-b526-76fa691101ea@ir-netherland.v2shop2.xyz:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp #@Twitro🧡 🇬🇪
+vless://32a701d3-ba18-40e1-b169-2acb59b7e3fd@turkey.v2shop2.xyz:41661?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp #@Twitro💚 🇬🇪
+vless://0815223d-7855-42b0-b526-76fa691101ea@ir-netherland.v2shop2.xyz:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp #@Twitro💚 🇬🇪
