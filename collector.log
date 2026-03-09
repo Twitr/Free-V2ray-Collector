@@ -44807,3 +44807,51 @@ Pushed to origin/main.
 Sorting by protocol:   0%|          | 0/15409 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 15409/15409 [00:00<00:00, 1396590.75cfg/s]
 2026-03-09 12:37:13,398 [INFO] save_config: Saving 3387154 configs to /home/apps/Free-V2ray-Collector
 2026-03-09 12:37:13,659 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
+Groups saved in 'Config_by_country' folder. 102 files, 15409 lines total.
+Pushed to origin/main.
+2026-03-09 14:07:21,914 [INFO] collector: It went sleep
+2026-03-09 14:07:21,915 [INFO] collector: Fetching: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2026-03-09 14:07:22,142 [WARNING] root: Request error for https://raw.githubusercontent.com/internet4jina/daily/main/studious ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2026-03-09 14:07:22,142 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/internet4jina/daily/main/studious
+2026-03-09 14:07:22,142 [INFO] collector: Fetching: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0309.txt
+2026-03-09 14:07:22,284 [INFO] collector: Fetching: https://proxypool.link/sip002/sub
+2026-03-09 14:07:22,898 [INFO] collector: Fetching: https://proxypool.link/ss/sub
+2026-03-09 14:07:23,083 [INFO] collector: Fetching: https://proxypool.link/vmess/sub
+2026-03-09 14:07:23,256 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt
+2026-03-09 14:07:23,430 [INFO] collector: Fetching: https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt
+2026-03-09 14:07:23,576 [INFO] collector: Fetching: https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+2026-03-09 14:07:23,744 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2026-03-09 14:07:23,867 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-03-09 14:07:23,978 [WARNING] root: Request error for https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-03-09 14:07:23,979 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-03-09 14:07:23,979 [INFO] collector: Fetching: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+2026-03-09 14:07:24,134 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
+2026-03-09 14:07:24,295 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
+2026-03-09 14:07:24,463 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
+2026-03-09 14:07:24,613 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
+2026-03-09 14:07:24,789 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
+2026-03-09 14:07:24,939 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
+2026-03-09 14:07:25,104 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
+2026-03-09 14:07:25,276 [INFO] collector: Fetching: https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
+2026-03-09 14:07:25,468 [INFO] collector: Fetching: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+2026-03-09 14:07:25,485 [INFO] collector: Fetching: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+2026-03-09 14:07:25,637 [INFO] collector: Fetching: https://raw.githubusercontent.com/freefq/free/master/v2
+2026-03-09 14:07:25,804 [INFO] collector: Fetching: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-03-09 14:07:25,820 [WARNING] root: Request error for https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 ➜ 404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-03-09 14:07:25,820 [WARNING] collector: Failed to fetch https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+2026-03-09 14:07:25,821 [INFO] collector: Fetching: https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt
+2026-03-09 14:07:30,049 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=1
+2026-03-09 14:07:30,304 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=2
+2026-03-09 14:07:30,489 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=3
+2026-03-09 14:07:30,631 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=4
+2026-03-09 14:07:30,794 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=5
+2026-03-09 14:07:30,959 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=6
+2026-03-09 14:07:31,130 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=8
+2026-03-09 14:07:31,300 [INFO] collector: Fetching: https://v2.alicivil.workers.dev/?list=7
+2026-03-09 14:07:31,457 [INFO] collector: Decoded 180 configs from 32 links
+2026-03-09 14:07:34,034 [INFO] save_config: Saving 83 configs to /home/apps/Free-V2ray-Collector
+2026-03-09 14:07:34,143 [INFO] save_config: Saved All_Configs_Sub.txt successfully
+Renaming configs:   0%|          | 0/60206 [00:00<?, ?cfg/s]Renaming configs:  12%|█▏        | 7466/60206 [00:00<00:00, 74566.74cfg/s]Renaming configs:  25%|██▍       | 14923/60206 [00:00<00:00, 73616.04cfg/s]Renaming configs:  59%|█████▊    | 35301/60206 [00:00<00:00, 132617.07cfg/s]Renaming configs:  92%|█████████▏| 55322/60206 [00:00<00:00, 159180.51cfg/s]Renaming configs: 100%|██████████| 60206/60206 [00:00<00:00, 136642.99cfg/s]
+Sorting by protocol:   0%|          | 0/15384 [00:00<?, ?cfg/s]Sorting by protocol: 100%|██████████| 15384/15384 [00:00<00:00, 1339585.88cfg/s]
+2026-03-09 14:07:42,906 [INFO] save_config: Saving 3381849 configs to /home/apps/Free-V2ray-Collector
+2026-03-09 14:07:43,167 [INFO] save_config: Saved All_Configs_shuffled.txt successfully
