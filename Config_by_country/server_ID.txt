@@ -1,15 +1,15 @@
-vmess://eyJhZGQiOiJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwiYWlkIjowLCJob3N0IjoiZXhhLm5leHR2cG4uY2MiLCJpZCI6IjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SmSDwn4eu8J+HqSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Twitro💜 Jakarta 🇮🇩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.171.254:990#@Twitro❤️ Jakarta 🇮🇩
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Twitro💛 Medan 🇮🇩
-vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow= #@Twitro💛 Jakarta 🇮🇩
-vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?encryption=none&security=none&type=ws&host=id2.v2vless.xyz&path=ğŸ”’ [By EbraSha] #@Twitro🤎 🇮🇩
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none #@Twitro🧡 Jakarta 🇮🇩
-trojan://idc117okt@103.176.78.153:443?security=tls#@Twitro🤎 🇮🇩
-vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInBzIjoiQFR3aXRyb/Cfp6EgSmFrYXJ0YSDwn4eu8J+HqSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb/Cfkpog8J+HrvCfh6kiLCJhZGQiOiJub2RlLWlkLTEudjJzdi50b3AiLCJwb3J0Ijo4NDQzLCJpZCI6ImM4MGU1YTM5LTViODUtNDMyNi05NWYxLWZiZjEwNTNjZGViZCIsImFpZCI6IjE2Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoibm9kZS1pZC0xLnYyc3YudG9wIiwicGF0aCI6Ii93cyIsInRscyI6InRscyIsInNuaSI6Ind3dy5mYWNlYm9vay5jb20iLCJhbHBuIjoiIiwiZnAiOiIifQ==
-vmess://eyJhZGQiOiIxMDMuMTI2LjIyNi4xOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5ldmEuYXpsYW4uYml6LmlkIiwiaWQiOiI4MDcyMjk4Zi1jZDI4LTRhNjEtOGUwNS01ODc5Yzg0YjkxMDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/Cfp6Eg8J+HrvCfh6kiLCJzY3kiOiJhdXRvIiwic25pIjoibmV2YS5hemxhbi5iaXouaWQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990 #@Twitro💛 Jakarta 🇮🇩
-trojan://idc117okt@103.226.139.201:443?security=tls#@Twitro🖤 🇮🇩
+vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none #@Twitro🤎 Jakarta 🇮🇩
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=&encryption=none&headerType=none&type=tcp #@Twitro💚 Jakarta 🇮🇩
-hysteria2://727cd454-2df4-4ae9-9ad1-78f7d9823d30@my.xn--ehqa22b.site:21735?insecure=1&sni=my.xn--ehqa22b.site#@Twitro🤍
+vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?encryption=none&security=none&type=ws&host=id2.v2vless.xyz&path=ğŸ”’ [By EbraSha] #@Twitro🖤 🇮🇩
+trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#@Twitro🖤 Medan 🇮🇩
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#@Twitro🖤 Jakarta 🇮🇩
+trojan://idc117okt@103.226.139.201:443?security=tls#@Twitro🤍 🇮🇩
+vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInBzIjoiQFR3aXRyb+KdpO+4jyBKYWthcnRhIPCfh67wn4epIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDMuMTI2LjIyNi4xOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5ldmEuYXpsYW4uYml6LmlkIiwiaWQiOiI4MDcyMjk4Zi1jZDI4LTRhNjEtOGUwNS01ODc5Yzg0YjkxMDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiQFR3aXRyb/CfpI0g8J+HrvCfh6kiLCJzY3kiOiJhdXRvIiwic25pIjoibmV2YS5hemxhbi5iaXouaWQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow= #@Twitro💚 Jakarta 🇮🇩
+vmess://eyJ2IjoiMiIsInBzIjoiQFR3aXRyb+KdpO+4jyDwn4eu8J+HqSIsImFkZCI6Im5vZGUtaWQtMS52MnN2LnRvcCIsInBvcnQiOjg0NDMsImlkIjoiYzgwZTVhMzktNWI4NS00MzI2LTk1ZjEtZmJmMTA1M2NkZWJkIiwiYWlkIjoiMTYiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJub2RlLWlkLTEudjJzdi50b3AiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoid3d3LmZhY2Vib29rLmNvbSIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJhZGQiOiJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwiYWlkIjowLCJob3N0IjoiZXhhLm5leHR2cG4uY2MiLCJpZCI6IjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJAVHdpdHJv8J+SnCDwn4eu8J+HqSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://idc117okt@103.176.78.153:443?security=tls#@Twitro💛 🇮🇩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.171.254:990#@Twitro💙 Jakarta 🇮🇩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990 #@Twitro💛 Jakarta 🇮🇩
+hysteria2://46a64503-b76f-45b4-9948-6bac86e8d29e@my.xn--ehqa22b.site:21587?insecure=1&sni=my.xn--ehqa22b.site#@Twitro💜
